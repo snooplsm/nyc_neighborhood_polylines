@@ -1,0 +1,2522 @@
+[
+  {
+    "name": "Manhattan",
+    "key": "Manhattan",
+    "parent_id": "1",
+    "id": "100",
+    "polyline": "ecnwFxhxbM|n@r@~Vc\\zB}o@ue@a}@}Oea@{E}fAsS{y@wtAuf@wn@vBsi@Icf@gOcYce@oh@yj@w|@up@kW{WuQ}CgX|Gqb@mEek@_\\wc@gh@kk@z@ef@da@ghAeAmoAnFijA_c@qz@uj@sa@i[gf@ye@e]qEcI~EqEoG|CcFfAuIwHyBuH^q@rA_FzFgG`NkBhDjEzFdDtGpEpDnFxCtBnI{E`OmI~K_G`]pBf[vi@h[|k@|Lzt@f`@bSfa@ft@dChr@xOnn@li@pmGb`ExfDl{Bfi@xQ~hAjI|uAxM",
+    "level": 1
+  },
+  {
+    "name": "Bronx",
+    "key": "Bronx",
+    "parent_id": "1",
+    "id": "200",
+    "polyline": "}fexFxagbMntAiAhRzAnQ{BjSqO~RcNcAyKPkK|@gFjCeExJmGbJgYdHmQfLeL_d@ac@kRe\\eDam@dQq[nIk\\lCwm@Pyi@{f@eZpMic@`Emo@_Rcv@fL{z@aIqg@sYbNoQu{@dEku@f[um@xVcv@^{`@}WoKkX|Gql@ng@}Ttq@mq@`PyV~f@wx@uCcb@gGcDmVtIwSdAyYgFuWrk@mZna@oYkBs`@kZaImd@{Ba]PeX|^u^sMq`@Yqa@mG_d@cJkUv[{e@|{CyDlc@rG~h@eDvAmDdNyEtEyE`U{EiBgFb@HzGyJv\\wDxDaCxHKnHuDxTfChTcg@nOuXnu@bLzHnHxHhIbEyBpM_FjIuBbJuD~I`ElAas@trDsC?e@hIsAlL{AdJXl@yRhaAb\\j@lZzHdbCho@rn@rWz@oRhE_LnLsR{B}OoFyCqEqDeDuGkE{FjBiDfGaN~E{Fp@sAtH_@vHzBgAtI}C`FpEpGbI_FvHt@`YjGra@|^rWlX|PzMh]hR`TzK|bAh^jJzA",
+    "level": 1
+  },
+  {
+    "name": "Brooklyn",
+    "key": "Brooklyn",
+    "parent_id": "1",
+    "id": "300",
+    "polyline": "szswFvxkbMrC~HlCpFdHxEvHlFlClAdCATlFbCMOkE~F_BbNm@zHv@zIlBr[fOfAt@|EvBtFjElEpBdAkC|LjEzUbItLtO`DfH`IlLt@bOXpUvBbW~AtVpApZXThB~@`B`FxMbOj@|AbAfAbm@d]fe@|XdZph@rOxYpIrDrJa@`E{@hEz@dUeEn]yC~H{Dz@q\\pOlSdzBddCnFyIhC~BjF~Bnc@rPtQrGpLx@tIb@vUr@~`@iC|P_G`\\yVtCgFxDsCnHcIjHuP`BwXxByYrMuw@x\\kr@pN_Kjl@kWdArFnBfAvEtIzHj@nD[lAbO]rJ~@bPvIpSnInErDFlF}AnDY~DcClB_FtBoKDsHvG_YdCaEzCQa@mPRad@yCkw@{Ja}AcDyc@sAmm@TwLUeGsB{d@_BiLd@{G_@ye@iAq@FqAh@eDOoVaC{Ag`@zHv@x`A_Hri@bApUkBVs@sKaAi^^sMCuMb@[JcLZw@]wHR{FpAeX[mJaAeC@i]`BsRlBsIVoMhBsNUcEj@_EUwPeB_AkGdAyD`EiGx@nBcLgBeEeCyEq@{G\\qI^gHoAcFcCqEbAaW}{@xbAqJeIwFsMeEcMoJ}L_EmB_Fq@]gJuFeMmEgOcLoBaGqPeFsB{FnCuHnGwBnKU|HyBvFoHdCgI{@eF{@}JjCq@eIoGiKyHgJqGuEiGmLy@mI|EiGaJqQ{EbHcFi@eHcOcHmJsIgIkIr@eF|DjCqFhF}DvCsF^kJcCwFwE{FuD_D_DI}AqEl@oFgByIuHoOmCwEk@kIy@oHqA}IiEcCaIz@mFnCoDKoEgBqJo@}DpCgDpF{O~J{AlByPpPqGsP}AcP{S`DqAcP}f@zHwGhAnAdPop@bKJrDeShDxAxJsGdAuKt@cRpDoPzBl@`FxArIhBxHxGbSsN|M_@rB@hBVvCQhBuDnKnBdSrB~QeInc@xC|j@{JlTqHiH_[tl@yDoDeGfLmEyEcg@xbAmKyKsOrXwEdAyBaDi@{CsF`AkEhFaK\\mB~@f@bCuJjDga@zOyAtKgBvVuB`K{DtI}CdE{EtBiGhBoEtBuCbCaCrDqGdXwFrVgBxIi@zDU~FH`H",
+    "level": 1
+  },
+  {
+    "name": "Queens",
+    "key": "Queens",
+    "parent_id": "1",
+    "id": "400",
+    "polyline": "szswFvxkbMm@wHIaHT_GRuATeBfByIvFsVpGeX`CsDtCcCnEuBhGiBzEuB|CeEzDuItBaKfBwVxAuKfa@{OtJkDg@cClB_A`K]jEiFrFaAh@zCxB`DvEeArOsXlKxKbg@ybAlExEdGgLxDnD~Zul@pHhHzJmTyC}j@dIoc@sB_RoBeSnDqKVgBWwCAiB^sBrN}MyGcSiByHyAsIm@aFnP{BbRqDtKu@rGeAyAyJdSiDKsDnp@cKoAePvGiA|f@{HpAbPzSaD|AbPpGrPxPqPzAmBzO_KfDqF|DqClGiFbf@eKgJktAd`@kSfTqLvLqG`N}A`ShIlMkFxNjNdS`GpK_@bGzElGfDhIeXnWvAvLpMvQ}EvQiYbM[nNt[iBlVhRt\\x{@p]jHpYpfAfgCtJpZ|@pk@Sl_@dS~`@fJd]LxUcJnWObTnLje@lC|ZhIv[jPbVdDt\\~LpY|Q~Gp[eEzh@pCjCoH}@eLqqAynE{Beh@oz@eiEk|AsrGub@}gCcQ{|AaMgmAgBe|@tEyv@OwHwLeJ{HcMsDeSb@uj@JgJmCmDwEZiO|EaIr@wHpCsEF{EhAoB`BsYdYaRhPrAxEwBfAb@nAjAzNzEjT}@hd@oEzKcFpLgO`Q`@nLwBtF}JY}UgOyY_GaQeYek@ifBsKwHi@{Ev@wEtBu@tF`EzC|@x@eAGqDUiG}BmBeNpFwCpBuFjEkAiDaE|BoCmAi\\m@kEuJmJuZsB{[mGcXcA}FaMo@mNrBs`AjLug@aCq_@mIyXz@yu@lCaeAjAgg@t@_B]}]`F}HrByVkPsLuCmJuAuIwf@cBaNu@}LqAuRyBuPoLa}@ws@fR_D}C}qA|GeClF_h@vaA{mCdeF{@`CpAhDnBdD|AjBlCj@pFtDdCPfGhCbDPr@d@x@{@p@GhCmBrDy@jFkB`ARnA~ArEnK`El_@u^n]aYpKqK|Ga\\b\\kAqMsJuDaPtDkd@r\\pIxh@|SnKlGrm@kKhByLCef@tjDpTtW|CpLgI|_AjY~nBb]KrGvRpSpLxYg`@EkZffAoBxXeTNyZzPr_@rLhs@i@`DaClH_CnDwSdPsHjG{BiW{KqMsQoKmu@llBcGyEc@cEiGqEsIdAkCbHh[tWoHrRhF`EjFi@hCdc@dGf@`[yC`Cb_@kNmAk]zKeRt]aIoFmWp^mPl~@x~A~uBeKhPhBlWbThPpQw@jF}PpJnSfOtUbThOjm@xg@|h@rg@x`@jUxQnG~MT~@iPmCqF",
+    "level": 1
+  },
+  {
+    "name": "Staten Island",
+    "key": "Staten_Island",
+    "parent_id": "1",
+    "id": "500",
+    "polyline": "k~pvFza~cMbYpWqErtAvt@||Apl@lSr_C{\\jb@zv@xm@tVx`AfAra@sk@aKimBsa@ibCkj@uq@rBaoA{r@}~@qh@yuB{m@w|AvRmu@{T{r@udAgiA{pAogCscBsfBsbC_iCkWil@ea@mPgb@|A_ZbSah@fg@yd@fY_[za@eOyR{a@`Hck@r@gf@jZgSvg@}Btt@vVjk@x@bcBvWvfBVjk@pH~n@_Ank@yWfcEhDrg@zk@lv@ni@hi@vi@pJde@{ElkAzJbd@y\\tNLt\\nY`]nMb{@dJnkAdY",
+    "level": 1
+  },
+  {
+    "name": "All Downtown",
+    "key": "All_Downtown",
+    "parent_id": "100",
+    "id": "102",
+    "polyline": "ijqwFlbwbMtm@zIzf@hFdg@~GbGoAzBqClEaAjHkFjCoDjBaEzAmEZ{B?sMsByMaEqKgT{`@eEoHoEmGeD{H_B_K_Dsh@kDis@sAgLsCgFsCoCq[gLkNgCkO_DgMkBaRuBeH[wE?mDnAwChEyBrB{Bp@cDd@aLbAsKj\\kOte@c^wUiTxq@zBlAgr@~xBf`@tNnm@jGvyArK",
+    "level": 2
+  },
+  {
+    "name": "Battery Park City",
+    "key": "Battery_Park_City",
+    "parent_id": "102",
+    "id": "112",
+    "polyline": "gxowFzqvbMmBlZzf@hFx^fFlGv@bGoAzBiC[_Da@aB{AcBm_@cLyRoC{Bi@yGiA",
+    "level": 3
+  },
+  {
+    "name": "Chelsea",
+    "key": "Chelsea",
+    "parent_id": "102",
+    "id": "115",
+    "polyline": "o_vwFvkvbMnm@hGbAyXf^{iA{|@il@gr@~xB",
+    "level": 3
+  },
+  {
+    "name": "West Chelsea",
+    "key": "West_Chelsea",
+    "parent_id": "115",
+    "id": "163",
+    "polyline": "uetwFpdubMk}@il@{[bdAl`@jNnm@jGbAyX",
+    "level": 4
+  },
+  {
+    "name": "Chinatown",
+    "key": "Chinatown",
+    "parent_id": "102",
+    "id": "110",
+    "polyline": "k{nwFlvsbMl@s@{Bym@wB?uD_B_Jnb@uCfMpE|Bc@`BqE}BuAhFm@[s@~BzJpIrCaIbAb@tDdC^u@ZGxBA|DiK",
+    "level": 3
+  },
+  {
+    "name": "Civic Center",
+    "key": "Civic_Center",
+    "parent_id": "102",
+    "id": "103",
+    "polyline": "cqnwF|uubMl@c@Rk@Bu@uBwL[eA~OiTqFqDyMaN_@t@}DnK{B@[F_@t@qDeCgAk@mArDeAtCjBjBcAlCpB`B~@qCvB|AiCjH~HlGfCeHfBpAkCdH",
+    "level": 3
+  },
+  {
+    "name": "East Village",
+    "key": "East_Village",
+    "parent_id": "102",
+    "id": "117",
+    "polyline": "wyrwFfcrbMhOnBjCVhCr@vHxArBHrUvGfYwuA|BqHhCqXkO_DgMoBaRqBep@psB",
+    "level": 3
+  },
+  {
+    "name": "Financial District",
+    "key": "Financial_District",
+    "parent_id": "102",
+    "id": "104",
+    "polyline": "_enwFj_wbMp_@`KvAhBbAxFjE}@jHoFlCkDjBeEzAmEZ{B{BoO_BqHfBiBcEsKoQy[sGxHrGyH{GqMcFdG{EaKe[`c@ZfArBbLC`AOh@i@b@vBbBoClHoI`V",
+    "level": 3
+  },
+  {
+    "name": "Fulton/Seaport",
+    "key": "Fulton_Seaport",
+    "parent_id": "104",
+    "id": "114",
+    "polyline": "o`mwFhptbM{GmMcFdG{EaKcJnMaPlTZhArBdLC`AOh@i@b@jIrGnIeMfDeGnEiEfFsF",
+    "level": 4
+  },
+  {
+    "name": "Flatiron",
+    "key": "Flatiron",
+    "parent_id": "102",
+    "id": "158",
+    "polyline": "c}rwFrcrbMcEZ{\\qUdCeIc^}UiTxq@zBlA~BzA~x@ni@",
+    "level": 3
+  },
+  {
+    "name": "NoMad",
+    "key": "NoMad",
+    "parent_id": "158",
+    "id": "159",
+    "polyline": "ydtwFz}pbMgVaPiTxq@dVrOvGqSyBsA`CkHtBxA",
+    "level": 4
+  },
+  {
+    "name": "Gramercy Park",
+    "key": "Gramercy_Park",
+    "parent_id": "102",
+    "id": "113",
+    "polyline": "gcswFndrbMbE[fRol@sa@gXmOze@eCdI",
+    "level": 3
+  },
+  {
+    "name": "Greenwich Village",
+    "key": "Greenwich_Village",
+    "parent_id": "102",
+    "id": "116",
+    "polyline": "}vswFdatbMnKxGdN_H~AY|ObKhGvCtFpBhQud@fA{G~DaPsUwGsBIwHyAiCs@kCWiOoBkBJkQxj@",
+    "level": 3
+  },
+  {
+    "name": "Noho",
+    "key": "Noho",
+    "parent_id": "116",
+    "id": "118",
+    "polyline": "_eqwF|nsbMdAqGdEgPwU{GsBIyHyAmCjI",
+    "level": 4
+  },
+  {
+    "name": "Little Italy",
+    "key": "Little_Italy",
+    "parent_id": "102",
+    "id": "108",
+    "polyline": "y}owFfbtbMr@_Cj@XvAgFpEzBb@aBqE_CtCeMqEkB}EaB_IxV",
+    "level": 3
+  },
+  {
+    "name": "Lower East Side",
+    "key": "Lower_East_Side",
+    "parent_id": "102",
+    "id": "109",
+    "polyline": "gyowFfbsbMfFdCzIob@pD`Bv@F|@O|B`n@m@r@h@jBf@}@bMdMhGlEzIgMkC_J_Gkt@bFk@uD{u@uAeLqCgFsCoCq[iLkNgCkClXwBnHkY`vA`\\|I",
+    "level": 3
+  },
+  {
+    "name": "Two Bridges",
+    "key": "Two_Bridges",
+    "parent_id": "109",
+    "id": "111",
+    "polyline": "qonwF|`tbMzCbDhGjEzIgMcA}CgAaE{@eKcE_h@eBuYgG^aJv@q@?ULwBPlEvlAm@p@h@lBf@}@",
+    "level": 4
+  },
+  {
+    "name": "Nolita",
+    "key": "Nolita",
+    "parent_id": "102",
+    "id": "162",
+    "polyline": "ybqwFxesbMhCfBrDbDrFzApFvE~HwVkDgAwV}G",
+    "level": 3
+  },
+  {
+    "name": "Soho",
+    "key": "Soho",
+    "parent_id": "102",
+    "id": "107",
+    "polyline": "}{qwF|evbMpGNwA`YxJ|@lAiYzUg_@~Vo`@wC}BoRiPgFcBmI{FgAhHcH~QaHnQoAxY",
+    "level": 3
+  },
+  {
+    "name": "Hudson Square",
+    "key": "Hudson_Square",
+    "parent_id": "107",
+    "id": "166",
+    "polyline": "}{qwF|evbMpGNwA`YxJ|@lAiYzUe_@fAkBk@BwAYsE{AuJsCeQkFoAxY",
+    "level": 4
+  },
+  {
+    "name": "Stuyvesant Town/PCV",
+    "key": "Stuyvesant_Town_PCV",
+    "parent_id": "102",
+    "id": "106",
+    "polyline": "{irwFbvpbMv\\}eAaHa@uE?mDnAwCjEyBrB{Bn@cDd@aLbAsKj\\",
+    "level": 3
+  },
+  {
+    "name": "Tribeca",
+    "key": "Tribeca",
+    "parent_id": "102",
+    "id": "105",
+    "polyline": "ijqwFlbwbMlm@rInAaZb\\vFvIeVdCoHyBcBoLoJjCgHgBqAgCdH_IkGhCmHwB{A_AnCqB_BbAeCoIaIim@|_A",
+    "level": 3
+  },
+  {
+    "name": "West Village",
+    "key": "West_Village",
+    "parent_id": "102",
+    "id": "157",
+    "polyline": "gvqwFt`wbMbAiYuFUnCap@uFqBgGuC_PcK_BVeN~GoKyGkUdt@g@x@QbAw@xX",
+    "level": 3
+  },
+  {
+    "name": "All Midtown",
+    "key": "All_Midtown",
+    "parent_id": "100",
+    "id": "119",
+    "polyline": "}zvwFbulbMcFgHsNyJs{@xmCj@v@ChBz@b@iFrPeCyAkVlv@sAr@wDpMn{AneA~WjIlr@iyB{BmAhTyq@rFpDnVnPb\\scAKcCkDuCmSSmWwCmJqFmHaIaIkFoScO",
+    "level": 2
+  },
+  {
+    "name": "Central Park South",
+    "key": "Central_Park_South",
+    "parent_id": "119",
+    "id": "121",
+    "polyline": "}lywFrppbMh@?|Mqb@PHx@eCSMXaAz@f@jCuI_C_BmUrs@XX",
+    "level": 3
+  },
+  {
+    "name": "Midtown",
+    "key": "Midtown",
+    "parent_id": "119",
+    "id": "120",
+    "polyline": "}rwwF~mnbMgWgQwKp]bC`BkCrI}@m@UfALJo@bCUIaNzb@e@?G`Bz@b@rfA~r@xMgb@wFcEzSaq@",
+    "level": 3
+  },
+  {
+    "name": "Midtown East",
+    "key": "Midtown_East",
+    "parent_id": "119",
+    "id": "123",
+    "polyline": "{evwFzgmbM_TyQeFgHsNwJ{Wxz@rV`Qhj@t^kGzRl^|UtGqS|i@z^b\\qcAKaCkDuCmSSmW{CmJqFmH_IaIkF",
+    "level": 3
+  },
+  {
+    "name": "Kips Bay",
+    "key": "Kips_Bay",
+    "parent_id": "123",
+    "id": "133",
+    "polyline": "{guwFxcpbMjVnP?HpRbMb\\qcAKaCkDuCmSSiWaD",
+    "level": 4
+  },
+  {
+    "name": "Murray Hill",
+    "key": "Murray_Hill",
+    "parent_id": "123",
+    "id": "130",
+    "polyline": "apvwFnapbMn^|U`]mfAkJsFmH}HaIkF",
+    "level": 4
+  },
+  {
+    "name": "Sutton Place",
+    "key": "Sutton_Place",
+    "parent_id": "123",
+    "id": "131",
+    "polyline": "}rwwFxmnbM~Vuw@cFgHsNyJcX~z@",
+    "level": 4
+  },
+  {
+    "name": "Turtle Bay",
+    "key": "Turtle_Bay",
+    "parent_id": "123",
+    "id": "132",
+    "polyline": "iquwFbxmbMqSgO_T{QaW|w@hj@t^",
+    "level": 4
+  },
+  {
+    "name": "Beekman",
+    "key": "Beekman",
+    "parent_id": "132",
+    "id": "134",
+    "polyline": "mhvwFpembMmQoOqFzPrR|L",
+    "level": 5
+  },
+  {
+    "name": "Midtown South",
+    "key": "Midtown_South",
+    "parent_id": "119",
+    "id": "122",
+    "polyline": "a|twFxlpbMyJ}GwGpSk^yUmKh]tFzD{M`b@df@|[|Mwb@{BmA",
+    "level": 3
+  },
+  {
+    "name": "Midtown West",
+    "key": "Midtown_West",
+    "parent_id": "119",
+    "id": "124",
+    "polyline": "uvywFxcqbMkVnv@sAp@wDrMn{AneA~WfInc@{uAumBkoAmFtP",
+    "level": 3
+  },
+  {
+    "name": "Hell\u0027s Kitchen",
+    "key": "Hell_s_Kitchen",
+    "parent_id": "124",
+    "id": "152",
+    "polyline": "uvywFzcqbMkVlv@sAr@wDpMpgAjv@n]cjALYTYFMpEqNubAap@mFrP",
+    "level": 4
+  },
+  {
+    "name": "Hudson Yards",
+    "key": "Hudson_Yards",
+    "parent_id": "124",
+    "id": "146",
+    "polyline": "gnwwFdvrbMUXMXo]bjA|R`N~WhInc@}uA_j@e^",
+    "level": 4
+  },
+  {
+    "name": "Roosevelt Island",
+    "key": "Roosevelt_Island",
+    "parent_id": "100",
+    "id": "101",
+    "polyline": "eyxwFbhjbM`DrD|G|F|FbCbCtCjCdCbRrOnMfLzA`C|BdB|ElApDzDnDhAbBnAzBODaCkDwDyAkDeC}C{DiGwFeGcIcHgGqIyF}D_DkAyAaCmEoDqDuEiZsV_JyGwGyFeEsHgCmAuCsB{CKkDJaCa@e@lA`@pB|@bFvAxChEtDtCfEzC|DfDpA|E`F`D|BzIvF",
+    "level": 2
+  },
+  {
+    "name": "All Upper East Side",
+    "key": "All_Upper_East_Side",
+    "parent_id": "100",
+    "id": "139",
+    "polyline": "io}wFp~jbM_KqGyAfF}b@_Ye@vAtjEhsCvd@cyAkZo]uUmSgVaRgNwOcNiNyDsA{Gc@_OnCwInCyEc@iCyAsOtf@}BwA",
+    "level": 2
+  },
+  {
+    "name": "Upper East Side",
+    "key": "Upper_East_Side",
+    "parent_id": "139",
+    "id": "140",
+    "polyline": "io}wFp~jbM_KqGyAfF}b@_Ye@vAtjEhsCvd@cyAkZo]uUmSgVaRgNwOcNiNyDsA{Gc@_OnCwInCyEc@iCyAsOtf@}BwA",
+    "level": 3
+  },
+  {
+    "name": "Carnegie Hill",
+    "key": "Carnegie_Hill",
+    "parent_id": "140",
+    "id": "143",
+    "polyline": "mc|wFpklbMzO_g@ao@eb@eNpc@iAs@o@vB",
+    "level": 4
+  },
+  {
+    "name": "Lenox Hill",
+    "key": "Lenox_Hill",
+    "parent_id": "140",
+    "id": "141",
+    "polyline": "qwxwFhznbM|[cdAzG_TmZo]_WsRiWeRyRzl@kVfv@",
+    "level": 4
+  },
+  {
+    "name": "Upper Carnegie Hill",
+    "key": "Upper_Carnegie_Hill",
+    "parent_id": "140",
+    "id": "164",
+    "polyline": "ct}wFnckbMjAn@nAkE}JsG{AdF}b@{Xg@rAvl@f`@",
+    "level": 4
+  },
+  {
+    "name": "Yorkville",
+    "key": "Yorkville",
+    "parent_id": "140",
+    "id": "142",
+    "polyline": "cvzwFjxkbMfYa~@wMkO}MyMyDsAwGi@kO|CoIfCwEc@iC{AsOvf@",
+    "level": 4
+  },
+  {
+    "name": "All Upper West Side",
+    "key": "All_Upper_West_Side",
+    "parent_id": "100",
+    "id": "135",
+    "polyline": "_fzwFhhrbMhNkc@dCxAhFoPq@s@?aBc@m@q@O}@b@ap@_b@ioB_qA{f@k\\}a@zpAhgEz|C",
+    "level": 2
+  },
+  {
+    "name": "Upper West Side",
+    "key": "Upper_West_Side",
+    "parent_id": "135",
+    "id": "137",
+    "polyline": "_fzwFhhrbMhNkc@dCxAhFoPq@s@?aBc@m@q@O}@b@ap@_b@ioB_qA{f@k\\}a@zpAhgEz|C",
+    "level": 3
+  },
+  {
+    "name": "Lincoln Square",
+    "key": "Lincoln_Square",
+    "parent_id": "137",
+    "id": "136",
+    "polyline": "{mzwFf{rbMjVkv@zBzAhFmPu@i@BkBQc@USc@Ge@F[Zy[mSiSuMsd@~xAtp@|c@rD{M",
+    "level": 4
+  },
+  {
+    "name": "Manhattan Valley",
+    "key": "Manhattan_Valley",
+    "parent_id": "137",
+    "id": "138",
+    "polyline": "oz~wFdlmbMjCqGlByG}f@e\\gUnt@pGbEzLt@vC`@fCjAtJrG",
+    "level": 4
+  },
+  {
+    "name": "All Upper Manhattan",
+    "key": "All_Upper_Manhattan",
+    "parent_id": "100",
+    "id": "144",
+    "polyline": "kmfxFrigbM}JsBob@}ScReG{a@_Wm]uS}V_Vg\\mZi`@yVaRgAmKpJmBtXCpMaHnSqIjHgBtTpKrSl`@bUpUa@dL~EdIlFjGnFzWvP`KxHxL|ExG|GvDjIjCvHzAhB|QbBbPsCl\\zN|]tEtBd@xi@d[yA`Hz_@vTtFkDlp@re@dq@vb@ny@glC|b@pYzAgFdKvGjKg]`C~AvOog@yHqRsMkLgO_HqIoHeI}PiHsKeIuEsLXeMb@}PzFyF~CcMlLeEpCeC~AgDl@yCNqFu@kOk@{Qa@aJFsT|@eMXiHHsJZ",
+    "level": 2
+  },
+  {
+    "name": "Central Harlem",
+    "key": "Central_Harlem",
+    "parent_id": "144",
+    "id": "154",
+    "polyline": "ytexFfmhbMVNnAiBb@SjAPjb@vXdPbGdU|Nd@j@vEtBtE`BhJbGxIdJhKfHgGpRjCjB~@[~@ZtGlC`C`BdKvGbH~AxLxC|]{hArGeS_{@qj@ci@c^_MgA{Qa@aJFsT|@eMXiHHsJZ",
+    "level": 3
+  },
+  {
+    "name": "South Harlem",
+    "key": "South_Harlem",
+    "parent_id": "154",
+    "id": "165",
+    "polyline": "kzaxF|zjbMbG|DgGpRjCjB~@[~@ZtGlC`C`BdKvGbH~AxLxC|]{hArGeS_{@qj@",
+    "level": 4
+  },
+  {
+    "name": "East Harlem",
+    "key": "East_Harlem",
+    "parent_id": "144",
+    "id": "155",
+    "polyline": "uv`xFlfhbM|^|U`[lSmFlPbc@bYtAiF~JnGvKe]xBvAvOuf@qHqRuM_MmOeHgIcI{J_RqFuIaJ{DuLQiLl@{KdEoJhGeTvP_IbC}CC}H_@",
+    "level": 3
+  },
+  {
+    "name": "Hamilton Heights",
+    "key": "Hamilton_Heights",
+    "parent_id": "144",
+    "id": "148",
+    "polyline": "kccxFj|ibMaUcOePiGqb@wXg@K]Cc@VqAbBWIi[daAdj@`[wAnH|_@tT|FoDp\\{fA",
+    "level": 3
+  },
+  {
+    "name": "Inwood",
+    "key": "Inwood",
+    "parent_id": "144",
+    "id": "150",
+    "polyline": "wfkxFlaebMbLc@xCZpBoCwK}IsEiGsPsMsHcJeTyQaKyFgVqDuJdHuFnVi@lL\\xHmFfOoF|CaCtG_@`Kd@lNlFfHhIfH`OfHjNbC`OIlDoLhEwFl@wM",
+    "level": 3
+  },
+  {
+    "name": "Manhattanville",
+    "key": "Manhattanville",
+    "parent_id": "144",
+    "id": "161",
+    "polyline": "utcxFrjkbMeJpYvUvQtCcInAH`Cq@M_CbAi@h@kAhA}D",
+    "level": 3
+  },
+  {
+    "name": "Marble Hill",
+    "key": "Marble_Hill",
+    "parent_id": "144",
+    "id": "226",
+    "polyline": "menxFntbbMkBkExBaDb@cAfAuIwHyBuH^q@rA_F|FgG~MkBhDjEzFdDvGzFnEdEzB",
+    "level": 3
+  },
+  {
+    "name": "Morningside Heights",
+    "key": "Morningside_Heights",
+    "parent_id": "144",
+    "id": "147",
+    "polyline": "gb`xFrolbM}UqFeKwGgCgBmIcDcAXmCiByAzEiGcEkF~PmJeGkAtDi@pAcAf@L~BmAd@y@NgAOyChIfTtSpMpIhR~KbRtO",
+    "level": 3
+  },
+  {
+    "name": "Washington Heights",
+    "key": "Washington_Heights",
+    "parent_id": "144",
+    "id": "149",
+    "polyline": "imfxFxigbM{JyBab@wSkRmG_K_Gmt@sc@oBxCiDWoK`@ki@hZ]zK_ExGqDjMhL`FlIfFjGzFfW|O`K`ItMjF`GrGzDdIrC|HlAnBbRrAfPgChHxCbS~Ifa@vFrj@ofB",
+    "level": 3
+  },
+  {
+    "name": "Fort George",
+    "key": "Fort_George",
+    "parent_id": "149",
+    "id": "151",
+    "polyline": "spixFjqgbM~Sqo@}[eRwM_J{HcEoBpC_DQ{KXai@jZ`BxChAxCpAlBnB`B~AV~EGrCpApCfA~GnBbPhHnFpBzEbAhHxC",
+    "level": 4
+  },
+  {
+    "name": "Hudson Heights",
+    "key": "Hudson_Heights",
+    "parent_id": "149",
+    "id": "145",
+    "polyline": "enhxF~dhbMgVaFgBeC}FgGwWsKcFoAuGeCyNuGcHkBeHwC{EFaBYoB_BqAmBiA_DeByCa@vL_EbGiDhMlL|E|H~ErGbGjKzGbKlGrJpH~MnFbG~GnMnXlNcB",
+    "level": 4
+  },
+  {
+    "name": "West Harlem",
+    "key": "West_Harlem",
+    "parent_id": "144",
+    "id": "153",
+    "polyline": "utcxFpjkbMpf@n[jF{PlG`E~IqY{FyDgCkBuBkBcBgB{BeCmJoG{LmE",
+    "level": 3
+  },
+  {
+    "name": "Baychester",
+    "key": "Baychester",
+    "parent_id": "200",
+    "id": "243",
+    "polyline": "c}lxFb_uaMnC}GdByDrE}Kh@gAXw@|IeRnCoGtAyBvBkA`CcAbCoAnDcGxCsFwJhC_KnI{KpFyVrK}FtBkGtBaGvAaTdAyBlGkBzGsArDw@nC{@dC~BtBrDpCzGvFdGxE~BbB`FnElAbAnAjAp@\\n@n@zAeEdAyB`AcC|BiFjBaFVi@",
+    "level": 2
+  },
+  {
+    "name": "Bedford Park",
+    "key": "Bedford_Park",
+    "parent_id": "200",
+    "id": "221",
+    "polyline": "_xmxFv_`bMzDtCfKbJt@Lh@Cp@@b@dA^qBf@wDd@uF}EkD{B{AgFuDU[qB{FaA}BfBkDZi@~HaPtByDfGwG|FcEJ_@hAcDnEmD_EgB{AwCs@eBo@aAOmAOs@k@sAa@s@a@o@wB{C{Br@oBbAcBt@{CbAgBt@u@ViHtBsBr@yErAeH~AeDj@eATgBp@YN_Al@_C`AaALcBNcA`@]XoCdDs@d@iJpDAj@GhA[p@M`@AhADf@zAv@vK~HhApAjAdBhAjA~ThPxStO",
+    "level": 2
+  },
+  {
+    "name": "Belmont",
+    "key": "Belmont",
+    "parent_id": "200",
+    "id": "218",
+    "polyline": "{bjxF~o~aMXgBbEaTh@aDnCaNsb@_IaALk@tAi@`C_@jAkAnGYtCi@tC}@`CgA|BoOf^bF|EfCnChGhDnMlH|@_D`EmMdAiCbBoDi@e@I_@AmAZY`As@x@c@b@?x@H",
+    "level": 2
+  },
+  {
+    "name": "Bronxwood",
+    "key": "Bronxwood",
+    "parent_id": "200",
+    "id": "265",
+    "polyline": "{|jxF`|zaMsAsFg@uGLaBEsB{@geAwAm@e@_@sHmGuJyHuC{BUvd@qGrCkAl@aDfCUXcElD_CqCwBcCu@_AwAaBgAaByAeBeCcCmBuAuBgBMda@]xp@G`Fj[`@|GFdIfA|Pd@jH`@bI`B",
+    "level": 2
+  },
+  {
+    "name": "Castle Hill",
+    "key": "Castle_Hill",
+    "parent_id": "200",
+    "id": "229",
+    "polyline": "ccfxFfhyaM|j@eS|GsBf}@qM_@cExB}Bz@wFk@sFD_FvIsPlKoDl@cHyd@}WcUoMwKuAwj@~Q@fFc@tGs`@|nB",
+    "level": 2
+  },
+  {
+    "name": "City Island",
+    "key": "City_Island",
+    "parent_id": "200",
+    "id": "236",
+    "polyline": "}tjxFbrkaM^DFm@jUZzEyGzEjC~Gn@bQjEfWqRfHwDzCqAvBs@|IwKxGiUqMmWyEwEiNNsRxFeKpDoMdEuLbHeBvKkBdDiIdFsA`CmDlEmFbBkCZaAXW?oARgAFgAl@b@hD~Ap@TB~@jB~@bAKpA\\Pf@@|Ab@dATh@\\?P",
+    "level": 2
+  },
+  {
+    "name": "Co-op City",
+    "key": "Co-op_City",
+    "parent_id": "200",
+    "id": "234",
+    "polyline": "a{jxFzrqaMoCsQaJoOcK_H{^jD_UnIoT{@_TMoh@cNoSgDP`C\\fDpDbUfEtTnBtIlClIvBvFbCpFbAnBtA~BlBlC`BpBhCfC~ClC|BdAbDlApCn@dD`@~GJ|DWhKmC`HyA`HcCtVqJbKoGlNyJ`KgCbK}A",
+    "level": 2
+  },
+  {
+    "name": "Concourse",
+    "key": "Concourse",
+    "parent_id": "200",
+    "id": "211",
+    "polyline": "anhxFdbabMy@~Yk@t[FnOtj@z^bR|\\vNjGxSxRvBrFjAfGRlLbu@}C\\gMbGy]gCkAwEmE{HkJ}EyIkEiHsEuJsDmGaIoMqB}C_C{Byp@gZeMiHoNaG",
+    "level": 2
+  },
+  {
+    "name": "Country Club",
+    "key": "Country_Club",
+    "parent_id": "200",
+    "id": "273",
+    "polyline": "ofgxFndoaMor@qF_Mb]LtAVjBAnAD`BtB~VmBfAdKbUxCfH`@vAt@OHFjJc@hF@zBPxDW`JW`D]fDWdDa@vD}@k@uAx@y@pAu@rCwBE}AGg@q@oEe@qDwEc[WqC",
+    "level": 2
+  },
+  {
+    "name": "Crotona Park East",
+    "key": "Crotona_Park_East",
+    "parent_id": "200",
+    "id": "209",
+    "polyline": "urexFja`bMhUbHpAcIHaA@kEm@_EqB}JAsQJwKoBwEuBwEk@wA]{DHsA{@g@uCFuDlBwBe@{DoAmA[_A{DeAeAeDoCaJ_AcD_AkFcCkAvDyOh]wChG{EjKeBhEo@dCa@`Ck@`FpBvBdAdAdAx@tApAzA~@rIvEtCpAzAnAdChBrAp@pAd@p@D^P`ADbBK`AWTGhBaAx@k@NOrC{B|HfAzDd@jCx@",
+    "level": 2
+  },
+  {
+    "name": "East Tremont",
+    "key": "East_Tremont",
+    "parent_id": "200",
+    "id": "216",
+    "polyline": "amhxFd{`bMXsF|@eOZmDn@mK`@mIv@yG`@_Cl@cCfBkEfFcLhCoFbHkOfA}BnDaIjAwDo@a@mAsAk@y@mAw@kBo@wBg@iA{@u@sAOCuEuC_Bo@oE_AgBy@sAzDeSh\\cCbDmCg@y@Vc@Zi@ScEo@_Dk@mC|Mk@dDcE`Tc@pCcAIW?}@d@}@n@]\\@jAH^h@d@cBnDgAnCuDnLgAvDxBrAtGjDrGrDdDbBj@`@h@ThHdEjIzDnAr@r@b@nPrHlAr@",
+    "level": 2
+  },
+  {
+    "name": "West Farms",
+    "key": "West_Farms",
+    "parent_id": "216",
+    "id": "219",
+    "polyline": "_qhxFlu}aMd\\tDjJgSnDaIjAwDo@c@mAqAk@{@mAu@kBo@wBi@iAy@u@uAOAuEuC_Bo@oEaAgBw@sAzDeSh\\cCbDmCg@sAl@",
+    "level": 3
+  },
+  {
+    "name": "Eastchester",
+    "key": "Eastchester",
+    "parent_id": "200",
+    "id": "246",
+    "polyline": "anpxFl_qaMuDyRgRcB_K~AvApGmHfDaGtPjc@~KiEjQiBi@~EkOuSyCRjW]hIaDnJfSlAlILnE[nKb@x@pIpCfIvHhJfJv\\nFfK~GoSbIqXnBcFu@g@kFq@{C_AqEqB}@i@kFkFoEaGyCoFcCqFeGeQuCyL",
+    "level": 2
+  },
+  {
+    "name": "Edenwald",
+    "key": "Edenwald",
+    "parent_id": "200",
+    "id": "276",
+    "polyline": "ixoxFv|vaMpFyQ`@eAdIoWoFgKgJw\\wHgJqCiIy@oIoKe@oE\\uGGiEQoN_AuAlEiA~EYxAUd@{CnDORs@|Am@lBQvA[vHIl@wBfLe@lDUh@~DlZ~C`O`[sIp@wA~OnHz\\|R",
+    "level": 2
+  },
+  {
+    "name": "Fordham",
+    "key": "Fordham",
+    "parent_id": "200",
+    "id": "214",
+    "polyline": "w{kxFt{`bM|AbA`FdCtH`EbA\\xB}I`AiEdAaEv@qDzByILcFh@wB}NkI{EkCgCoCcF}EpOm^bAwB|@aCj@wCXuChAmGvBeH_Ch@kDGuKeA_Bz@uBnCuFfFgOlLuAdE}FbEgGxGqD|GaGzLa@p@aB`DlAzCdB|ETZdFrDpCjBfJzG`EpCvEfDfDdCpEzDbAv@",
+    "level": 2
+  },
+  {
+    "name": "Highbridge",
+    "key": "Highbridge",
+    "parent_id": "200",
+    "id": "210",
+    "polyline": "}fexFtagbMQsLmAeGwBuF{SmRsNmGuRy]_j@{]MdLLrN|@dUIbRoCjP|bAj^jJzA",
+    "level": 2
+  },
+  {
+    "name": "Hunts Point",
+    "key": "Hunts_Point",
+    "parent_id": "200",
+    "id": "204",
+    "polyline": "albxFxa`bMxPjWpGrIt[_DnJgJeD_m@dQs[nIi\\lCym@cEsYeHqLgHyEcN_KsK_D}SzJ{Y`SwIxg@wP`\\oGrDwMbFdA`Q|B~CtH`N",
+    "level": 2
+  },
+  {
+    "name": "Kingsbridge",
+    "key": "Kingsbridge",
+    "parent_id": "200",
+    "id": "224",
+    "polyline": "k_oxFxbbbMvGwEp@sAtH_@vHxBp@oEfB_FZ[^GnHPv@In@]zCyBzC}FfCcNe@cAeCG{h@wa@eVkQeEqFcOkKEpBiGkEaMtkAwQgH_@pF^rBxAnBb@nBw@rBLnDMZfADhGaAd@SvCzC~CpEhPpRlIfLdEjG`DkF",
+    "level": 2
+  },
+  {
+    "name": "Kingsbridge Heights",
+    "key": "Kingsbridge_Heights",
+    "parent_id": "224",
+    "id": "220",
+    "polyline": "c}oxF~i~aMiGeEgIly@~[rZfQpNjJlBlSvIxB{Gz@c@`JPpEaDhDkGzBqMg@gAeCGmMkKsq@wg@eEqFcOkK",
+    "level": 3
+  },
+  {
+    "name": "Laconia",
+    "key": "Laconia",
+    "parent_id": "200",
+    "id": "241",
+    "polyline": "calxF~kxaMBAVud@wCoCeCkBeEqD_CaBeA}@oGwEaCuBsEsD{GgFyEaEmCgCaD}BkByAw@{@wMcKyCeCa@c@Sl@yAfFYj@oDdL`JvLjFhUz@jDhA~Ct@nA|NhT`BzBjCnCz@t@tAv@~CbClBjBbAnAnAjBbK|LlEyDNSfDmCnIyD",
+    "level": 2
+  },
+  {
+    "name": "Longwood",
+    "key": "Longwood",
+    "parent_id": "200",
+    "id": "205",
+    "polyline": "izcxFlf`bM@{@H{]EuFCyGW}EkHoLa@iO}IrAsIc@oKeCDzDLfAVdAfArBvD|IKzK@nQpB|Jl@~DAjEKfAoA`ItBj@pVzHhAmIfCF?C",
+    "level": 2
+  },
+  {
+    "name": "Melrose",
+    "key": "Melrose",
+    "parent_id": "200",
+    "id": "202",
+    "polyline": "i|bxFb_dbMiAqC{BqCiA}Aq@s@k@w@yAcByAyAuBeBuB{A}CiBiFqCo@{Ei@kDiAqB{Ag@kCiAuGzZoOgG~B~BvB~DnF~IdFhJjJvQrCxE~DbGpBlCtB`C~EbFxBlBpH}c@x@qFb@_C",
+    "level": 2
+  },
+  {
+    "name": "Morris Heights",
+    "key": "Morris_Heights",
+    "parent_id": "200",
+    "id": "212",
+    "polyline": "qrhxF~}ebMfBmLJwP_AuVK{NHuKgb@cXeRcPCtJu@rA}@lAmA`FjBnChBjAa@pM_AzDqBvEi@h@iA_@}@Jo@hAwVk@d\\h[jz@th@",
+    "level": 2
+  },
+  {
+    "name": "Morris Park",
+    "key": "Morris_Park",
+    "parent_id": "200",
+    "id": "237",
+    "polyline": "qjixFliyaMrBsHjAaDpQcJrHqFxCgMqEsWcDcN}F{KyDqDsHqFiZoQ}C{BaBuBcFyIcAoEgEmEqBb@pBc@qBb@uFbt@[xHKzMZ`KtAp\\b]`c@xHpKhBhCzBrCrAT",
+    "level": 2
+  },
+  {
+    "name": "Morrisania",
+    "key": "Morrisania",
+    "parent_id": "200",
+    "id": "207",
+    "polyline": "gudxFpacbM^}AlAuFp@oDzA{G~@yFd@gD`Hqd@sV}HsKaDmRaG}De@}HgAsCzBOPkAv@yAt@wAZaBLaAG_@Qs@EoAe@sAq@gCkB{AoAyCqA}D{BeCqAgBgAuAqA}@s@kAgAqBwBKn@a@pIm@lK]lDuAhVUbGbAb@\\PnD`Bp@\\vI~Dj@ZxFdCpG`CbBbArFtCrBpA|@d@hBj@zCxAzG|CbAj@dDtAlRbJzDdA`A\\nFbClDpA",
+    "level": 2
+  },
+  {
+    "name": "Claremont",
+    "key": "Claremont",
+    "parent_id": "207",
+    "id": "208",
+    "polyline": "ckfxFphbbMzCeNtBwI`EoQbAoDL}ApEmG|BiGkHaC{NmBsC|BsDzBwA\\cBNaAGcD}@sAs@aFwDuCsAoLwGsIcIKl@oA~U]hDmBr^n[|NdIxCvEpC",
+    "level": 3
+  },
+  {
+    "name": "Mott Haven",
+    "key": "Mott_Haven",
+    "parent_id": "200",
+    "id": "201",
+    "polyline": "}l`xFzjfbMnGiOe@uLbA}PrKmFbCaDdBiDcOqIkIgKeGePiMc^sIuQsBmDqDoCcEOaGvDuHbk@iFrWaHpQ}Nz_AcBtJ_@rKA`BrO|@lFGfAu@`G`DhCFbDnAdWFxEuCxPqOzFwC",
+    "level": 2
+  },
+  {
+    "name": "North New York",
+    "key": "North_New_York",
+    "parent_id": "201",
+    "id": "271",
+    "polyline": "a``xFj_fbMkBuEa@sGGsKxBoHdFwCnAe@hBgAv@aBrAqDiDuB}C{BkKuGuCsBoCqMsBcGqAkEeGkP]gAyEaNsKqOkANwGl@i@NMBqBvCa@dAi@pDm@hF{B|Py@dHs@jDaAxDi@nCgBnHgF`P~BjBpL~HvCdBpDfCrH~ElIvF|B`BtBnAh@|@dE|BnChBT\\Tj@bA`DdGxPjBy@tFcBnCu@",
+    "level": 3
+  },
+  {
+    "name": "Norwood",
+    "key": "Norwood",
+    "parent_id": "200",
+    "id": "260",
+    "polyline": "oamxFpm|aMqCsCm@oDvAsDxCaDdDk@pE{RoS?mSeAcp@oNbBva@aI_@iBxT{LmBePt@zYlSoIbe@`I~FDqBv@uCN_ClJiDzDsE~CmAnDcAdFuBpFmAxWgHrXyJ",
+    "level": 2
+  },
+  {
+    "name": "Parkchester",
+    "key": "Parkchester",
+    "parent_id": "200",
+    "id": "231",
+    "polyline": "kkgxFb_{aM`BzF~BvHxAzFx@lCVv@`BfEh@yMFwHRiGbAsMpKsj@|BkKpJgf@tF}WiHjAmIlAiIrBwSxBuWvCa@BeB?}AHvCnPpBpVhAvUxC~PhDdLz@xDn@zB",
+    "level": 2
+  },
+  {
+    "name": "Pelham Bay",
+    "key": "Pelham_Bay",
+    "parent_id": "200",
+    "id": "233",
+    "polyline": "{rhxFvpuaMhF_FpGeHnFaDaB{Di@_BuB_FcBcDFu@E}BM}Pg@sJUeCoDwP{BgHIq@sB^sBl@oC~@gEjB{BXeDRsDQ_NyC_Ek@gBNuA@wBNyAEwDL}BXcAP{A\\aJfOj@`@Zl@zAjFlB|J|D|NxAtEH~@lAAb@a@lA|@pBvCbCnHnAzB~A|BrAvAxAnAbFlDbBt@fDzBtL`HhIxF",
+    "level": 2
+  },
+  {
+    "name": "Pelham Gardens",
+    "key": "Pelham_Gardens",
+    "parent_id": "200",
+    "id": "266",
+    "polyline": "sbkxFj|waMyAq^OqFD_KJyDb@{JXsEbAoMlA{Nz@eJcBwG}D{NiEkR[k@u@SYFyFhCaB|@[j@w@nAmCnG_JdRYv@i@bAcGzNu@|AoC~G_AhBuBrFoAxCm@nAaA`CeAzBaBbEvJrH|GtF~HbGpEtDvBbBnBfB^b@hL`J~DbDf@d@pDzCj@`@tAl@",
+    "level": 2
+  },
+  {
+    "name": "Pelham Parkway",
+    "key": "Pelham_Parkway",
+    "parent_id": "200",
+    "id": "238",
+    "polyline": "k|ixFxmzaMpHmNdAiD}Zq_@oJaM}AkDoB{B{BkA`AxhAMbBf@tGrArFnFdHzN}BlB}J",
+    "level": 2
+  },
+  {
+    "name": "Port Morris",
+    "key": "Port_Morris",
+    "parent_id": "200",
+    "id": "203",
+    "polyline": "uqaxFxdabMdKrO`M`^bGhQnClMfZzRvFqQnHoRfEuUa]qYkRg\\oJfJ",
+    "level": 2
+  },
+  {
+    "name": "Riverdale",
+    "key": "Riverdale",
+    "parent_id": "200",
+    "id": "225",
+    "polyline": "yunxFlocbM{FoEeDyGwHqIeEkGmIgLiPqR_DqEwC{Ce@RiG`AgAEL[MoDv@sBc@oByAoB_@sB^qFoYsJ}b@tCcTgCeLWcLXkYj@gHGc@hNRtBy@rBBrBg@xAEzDa@zKaPzl@xxDxcA`b@hL`K|D?oMhAaGbKaLvBoDn@aEVkN",
+    "level": 2
+  },
+  {
+    "name": "Fieldston",
+    "key": "Fieldston",
+    "parent_id": "225",
+    "id": "227",
+    "polyline": "_mqxF~aabMtAjA|DEVu@KcDr@{Ba@qB}AmB[}Bb@gFcLgEoLmDac@pCaD[kC~N[|GSfK^pGvAfFlDzFxDlCfExAzLj@vNLvNVAaB{@{Ba@uAfAgDjBaBZsB_AyCyBcCc@kBXgB",
+    "level": 3
+  },
+  {
+    "name": "Spuyten Duyvil",
+    "key": "Spuyten_Duyvil",
+    "parent_id": "225",
+    "id": "249",
+    "polyline": "yunxFlocbM{FoEeDuGkE{Fv@wAqAeCwBpB_DyFgLiIaOiDwDPuD|@mK~EtExHnD|GzJvGvF~HaC~QoFd_@dq@|PAwLnKiP|B_Hp@iU",
+    "level": 3
+  },
+  {
+    "name": "Schuylerville",
+    "key": "Schuylerville",
+    "parent_id": "200",
+    "id": "274",
+    "polyline": "upexFdjtaMrCm@g@eFmA{He@cCaCmEmAgCgCoEyCsEeByDoAkD{CaHyB}CqAuBeDoA{Cr@yDb@qCRcD`@_JR{DXyBQiFA}Jb@lCtInDtPTdCf@rJJnPFjCGt@~@bB~@xBxFjAbGt@`GZ`GLhLSjDSbE]xKyAnEs@pAY",
+    "level": 2
+  },
+  {
+    "name": "Soundview",
+    "key": "Soundview",
+    "parent_id": "200",
+    "id": "228",
+    "polyline": "_`exFjxxaMcb@xNo@RmEj@wFnXwAvHgAdH_@|D]zFQ`GIbIg@hMa@fEe@rCw@`EtAvA~BjAtCz@rJhAbFrEbApDxJzCdEwBrCJzMnElQiAbGqCzGgBnGsDtPa\\xIyg@zYcSjBk_@xGyBhDqKlKkBzC}L|AqHMiNRwNuA_CsBIfAsCRqCOmHoF?qLdL{VkDwIrPE|Ej@tF{@tFyB~BR~AJ`Bg}@pMgOhF",
+    "level": 2
+  },
+  {
+    "name": "Throgs Neck",
+    "key": "Throgs_Neck",
+    "parent_id": "200",
+    "id": "232",
+    "polyline": "kh`xFf}raM}XqF}OmRgEc\\yA_t@xQ{]l\\u|@MknA{{BrcBgJhP}P|VcJxWaKtKkFzBaBh@gEd@iCb@{DbAZrDlExYf@xDl@zDJ|@DxA_HhFr@hBlCtAbCbDlEvKlFfKpFvJbFnKlBrLr@fLDpKXjMr@]xQgGrS}HpOZvLjFzEbBpGlBdCv@vBz@lDhB~B`A\\T~q@qe@",
+    "level": 2
+  },
+  {
+    "name": "Locust Point",
+    "key": "Locust_Point",
+    "parent_id": "232",
+    "id": "267",
+    "polyline": "ctaxFdxmaMnCoJD_B`OwXtQiV}DQml@r@uRjKmM|[uChRy@tSgCdTfZ}L",
+    "level": 3
+  },
+  {
+    "name": "Tremont",
+    "key": "Tremont",
+    "parent_id": "200",
+    "id": "248",
+    "polyline": "qphxFnlbbM`@cT\\eLViFeAk@qPuH_BaAoJsEwI_FuFyC}IcFoDiBqBmAi@vBM`F{B|Iw@nDeA`EaAhEyB|InEdCr@d@rEdClBnApLtJfEnDjD|CdElD~CvBtGbEvDhCfJ`G|AhAj@^HeR",
+    "level": 2
+  },
+  {
+    "name": "Mt. Hope",
+    "key": "Mt__Hope",
+    "parent_id": "248",
+    "id": "215",
+    "polyline": "ufixFpzbbMhTtNJmUn@m[t@mSwRcJCrCiAh@yA`BYdE{BtNgCjBmB`DkFbKdEjD",
+    "level": 3
+  },
+  {
+    "name": "University Heights",
+    "key": "University_Heights",
+    "parent_id": "200",
+    "id": "213",
+    "polyline": "klkxF|{cbMtQf@hDBTs@NS`@Q`Bj@^_@h@{@T}@lAsCn@{CX{CL_I{@_@y@q@cBeCjA_FpAwAZy@PoA@s@GcCAeBDg@mKuIsA_Ai@WeMgHeA_@sH_EqFmC}AgA}AmAmFqEgFwD}MmJc@tFg@vD_@nBq@vEs@jDa@~A{@jB_A`Bw@`A_At@yAdAYL_AB}FOi@?_@HOLKJgB|EcAtGk@nFKd@Uj@sClE~AfChA`BxJqIrP~BfRpK",
+    "level": 2
+  },
+  {
+    "name": "Van Nest",
+    "key": "Van_Nest",
+    "parent_id": "200",
+    "id": "240",
+    "polyline": "wohxFzy{aMrJlEpE~@~Al@tEtCNBr@rAjAz@tBf@lBn@jAt@j@z@nArAl@`@Ve@t@}Df@yC^_EaBgEqAgEyA{FuCoJ{EsP{@yDiDaLyCaQgAwUqBoV{@sEa@pBsAlFc@fBoEhDcBfAeHjDkHrDkA`De@~AmAvEoDxLQv@eAhDeIlOaDrEmB|J",
+    "level": 2
+  },
+  {
+    "name": "Wakefield",
+    "key": "Wakefield",
+    "parent_id": "200",
+    "id": "245",
+    "polyline": "}wpxFl_zaM\\mAh]m~A}\\}RgPuH_@|AGAc[rIs@kDw@iDq@iDe@sD}FbBkNvDcK|CcB`@a@LWX]d@c@~@e@~Ae@hAgIpUeE|KgEjLtDfCjAr@rDtC~@bA~A|AhIhHrC~AzAp@|@\\vAZfCBrAInBY`EkA~DXdB`A~GpF~AjBfClCvAfApEzBzHfCn@Z|Ah@dAT~Ax@zAd@r@Z~@X",
+    "level": 2
+  },
+  {
+    "name": "Westchester Village",
+    "key": "Westchester_Village",
+    "parent_id": "200",
+    "id": "272",
+    "polyline": "csexFfyvaMbAiEr@{DrAcGjB}Ib@uGAgF{@wJuAgT}IpBoCb@}@HmCd@iFr@_FZ{IZ_BD{MQ{@GsD[qBYqDu@yAc@q@G~ArDd@vAbBzDoF`DiG|GqFfFeIzMxDpD|FzK`DbNtBtL`CQv@Dt@Ezk@qGrIqBfK}AhDk@r@I",
+    "level": 2
+  },
+  {
+    "name": "Westchester Square",
+    "key": "Westchester_Square",
+    "parent_id": "272",
+    "id": "235",
+    "polyline": "gvfxF`staMiXa@uD[qBYqDu@yAc@q@G~ArDhCrGoF`DiG|GqFfFeIzMxDpD|FzKbDbNrBtL`CQt@Fv@Gzk@oGjDqA",
+    "level": 3
+  },
+  {
+    "name": "Williamsbridge",
+    "key": "Williamsbridge",
+    "parent_id": "200",
+    "id": "242",
+    "polyline": "e`oxFbvzaMxVxFrM~BpBILcNn@krAu@m@eCeCaB{B{BiDmAcBYc@wFgIwA_CiA_D{@kDkFeUgIwKYc@gIhWa@dA}FzRu^lbBzZlJ~LpDbMxC",
+    "level": 2
+  },
+  {
+    "name": "Woodlawn",
+    "key": "Woodlawn",
+    "parent_id": "200",
+    "id": "244",
+    "polyline": "ilrxF`b|aMYeP{DaVtDec@fDmPeFaE_EYaEhAcEb@sDNk@m@yCoAwBtJcFpGmBxJmD|HnFlAtEtErDhGlMt[|HbH",
+    "level": 2
+  },
+  {
+    "name": "Woodstock",
+    "key": "Woodstock",
+    "parent_id": "200",
+    "id": "270",
+    "polyline": "}mbxFt|bbMx@{DfAmJbC_Rh@uEXgBh@oAhBoCz@OfGk@dBWiDgFgBkB_BkCoIoMoEmGcAiAgDgDaJuJiK{KwBiB{C}CkDgGV|EBxGDtFI|]I`FgCGoAdJ_Ixh@aA`GvB~@rBn@fArBXbB|@~GpE`CfFbDbBnA`BxAhCjClC`DtAnB|AjBdBbE`DeKbAyCJk@zBuJ",
+    "level": 2
+  },
+  {
+    "name": "Bath Beach",
+    "key": "Bath_Beach",
+    "parent_id": "300",
+    "id": "336",
+    "polyline": "o_zvFvcwbMnOpPv@M`AaBvMaa@x\\kr@pLaMao@}p@mbAznBt^~_@",
+    "level": 2
+  },
+  {
+    "name": "Bay Ridge",
+    "key": "Bay_Ridge",
+    "parent_id": "300",
+    "id": "331",
+    "polyline": "}a}vFtg|bM~GMzBLjDcAnZiE|Aw@~HmEpHaIdEyCxBAlCmBcE}RuEeLgF{G_W{Qaj@qg@}g@wP_UsEcFd@iEjDqKzRsCjDaEhBqEHeE{ApC~GvAlGRxF_@|EiEbOuApGYpEL~En@hG~ArFnAdChC~BjF~Bnc@rPtQrGz`@lC",
+    "level": 2
+  },
+  {
+    "name": "Fort Hamilton",
+    "key": "Fort_Hamilton",
+    "parent_id": "331",
+    "id": "333",
+    "polyline": "i~{vFnd|bM|P_G`\\wVuEoTuCoHaDgFiBeCgCwAuP}LyVwTuIdR}F`LcOjbAoBtNvUr@",
+    "level": 3
+  },
+  {
+    "name": "Bedford-Stuyvesant",
+    "key": "Bedford-Stuyvesant",
+    "parent_id": "300",
+    "id": "310",
+    "polyline": "eflwFzxibMbCze@`Fjt@tw@}Jpy@cJlFy`@~MevGwJa@gKqNck@vlAmtA|tC",
+    "level": 2
+  },
+  {
+    "name": "Ocean Hill",
+    "key": "Ocean_Hill",
+    "parent_id": "310",
+    "id": "353",
+    "polyline": "}sgwFjvcbMhD{qAqGmTg}@fsB",
+    "level": 3
+  },
+  {
+    "name": "Stuyvesant Heights",
+    "key": "Stuyvesant_Heights",
+    "parent_id": "310",
+    "id": "312",
+    "polyline": "muiwFjbdbMmtAvtC`ApNv_CoXRoJjKXlAc{@tC_pA",
+    "level": 3
+  },
+  {
+    "name": "Bensonhurst",
+    "key": "Bensonhurst",
+    "parent_id": "300",
+    "id": "334",
+    "polyline": "cayvFj|rbMq_@y`@iIo~A}aBvbDjiAllA",
+    "level": 2
+  },
+  {
+    "name": "Bergen Beach",
+    "key": "Bergen_Beach",
+    "parent_id": "300",
+    "id": "363",
+    "polyline": "}qyvFx~_bMuFeMmEqOcLgBaGoPeFsB{FlCuHnGwBpKUzHyBvFqHfCeI}@eFy@}JhCw{@bdCy@{AmDvEpBtD`uAiH~PkSgMkUeCwB|EyFxArB|`@uh@nFgDbKWvLh@pHkCHoL",
+    "level": 2
+  },
+  {
+    "name": "Boerum Hill",
+    "key": "Boerum_Hill",
+    "parent_id": "300",
+    "id": "306",
+    "polyline": "udjwFj{qbMph@`[jDoLbDqL}FgD`Owh@{Z{P}Am@cAf@aDfKq@e@",
+    "level": 2
+  },
+  {
+    "name": "Borough Park",
+    "key": "Borough_Park",
+    "parent_id": "300",
+    "id": "338",
+    "polyline": "ww~vFlcvbMvjAq|Bk`A{_AaDwIgjAdMnEbOqS~_@zAxCcQb^",
+    "level": 2
+  },
+  {
+    "name": "Mapleton",
+    "key": "Mapleton",
+    "parent_id": "338",
+    "id": "335",
+    "polyline": "}_~vFdpobMiL`Thb@la@n\\d]t_AsjB",
+    "level": 3
+  },
+  {
+    "name": "Brighton Beach",
+    "key": "Brighton_Beach",
+    "parent_id": "300",
+    "id": "342",
+    "polyline": "ckuvF|ekbMsK|@CtLd@jI`C|Z|@xV`cA`NaD{c@u@eZ]gRTwLUcGeZ~CwZ|D",
+    "level": 2
+  },
+  {
+    "name": "Brooklyn Heights",
+    "key": "Brooklyn_Heights",
+    "parent_id": "300",
+    "id": "305",
+    "polyline": "gllwFj{sbMj@|AbAfAbm@d]pTkjAqXkKoSfEcIFcGeAgCu@w@mBeDvE_IlKqEnG~AhA~BlL",
+    "level": 2
+  },
+  {
+    "name": "Brownsville",
+    "key": "Brownsville",
+    "parent_id": "300",
+    "id": "354",
+    "polyline": "kgcwF|}bbMMuIkEgl@mGqLgBqB_@qBeDi@cJh@m_B|WljAllDbv@q|@",
+    "level": 2
+  },
+  {
+    "name": "Bushwick",
+    "key": "Bushwick",
+    "parent_id": "300",
+    "id": "313",
+    "polyline": "kuiwFfbdbMf}@csB}CwH{AcAiLoCyKm@qMoKs_@qZaDkGeInc@tCbk@yJfTqHgH_[~l@wD}DaGhLkEsEig@rbArVrZrPhl@zDnTxEv]",
+    "level": 2
+  },
+  {
+    "name": "Canarsie",
+    "key": "Canarsie",
+    "parent_id": "300",
+    "id": "359",
+    "polyline": "u~|vFnm_bMoGiKyHgJqGuEiGmLy@oIzEgG_JsQ{EdHcFk@eHaOcHoJsIgIkIt@cFvDwB|H}Wh[mEtLcHrGkDjBcEr@_KvLePfRcOxJySpDbBhV`@nBdBfBxGrMbErk@LxIq@`{@xCuD`bA_FnbA}EuBwDnDuEz@xAv{@{cC",
+    "level": 2
+  },
+  {
+    "name": "Carroll Gardens",
+    "key": "Carroll_Gardens",
+    "parent_id": "300",
+    "id": "321",
+    "polyline": "o`iwFjesbMqHhb@xb@~Otl@k\\k_@gNfD{JqBoAfDiJ_NeKoNyI",
+    "level": 2
+  },
+  {
+    "name": "Clinton Hill",
+    "key": "Clinton_Hill",
+    "parent_id": "300",
+    "id": "364",
+    "polyline": "ixkwFhlnbMtcBaSvJmy@ipAjOi^vEgABnBpT",
+    "level": 2
+  },
+  {
+    "name": "Cobble Hill",
+    "key": "Cobble_Hill",
+    "parent_id": "300",
+    "id": "322",
+    "polyline": "kqjwF`~sbMlIsBz[xLtH{a@dD}Lyb@gWsEbS",
+    "level": 2
+  },
+  {
+    "name": "Columbia St Waterfront District",
+    "key": "Columbia_St_Waterfront_District",
+    "parent_id": "300",
+    "id": "328",
+    "polyline": "mzjwFx~tbM`e@zXvb@qTtIcHe`Ak^gIhB",
+    "level": 2
+  },
+  {
+    "name": "Coney Island",
+    "key": "Coney_Island",
+    "parent_id": "300",
+    "id": "341",
+    "polyline": "{}rvFr`tbMf@wKNgZqC{v@sE}t@gDcg@ecAcNZjIx@nNvCvV^~Oa@fJ[fFeBrRbQhU`FtBsPvuAlAbObbA_L",
+    "level": 2
+  },
+  {
+    "name": "Crown Heights",
+    "key": "Crown_Heights",
+    "parent_id": "300",
+    "id": "325",
+    "polyline": "uohwFhdmbMzdBoRxH`C]iGkDs}AlCciAAeKv@@mmAgsDsAp`@aNhvGqFba@",
+    "level": 2
+  },
+  {
+    "name": "Weeksville",
+    "key": "Weeksville",
+    "parent_id": "325",
+    "id": "327",
+    "polyline": "qcewFpygbM~@{RK_Mv@@}Waw@s{@{DuCnwA",
+    "level": 3
+  },
+  {
+    "name": "DUMBO",
+    "key": "DUMBO",
+    "parent_id": "300",
+    "id": "307",
+    "polyline": "ydmwF|erbMpApZXT`U_[rCyER_OwBr@J}GbVuWt@{Bb@iBoJVcOSqEfDaDoDgAW}IaEkGu@XpUvBbW",
+    "level": 2
+  },
+  {
+    "name": "Vinegar Hill",
+    "key": "Vinegar_Hill",
+    "parent_id": "307",
+    "id": "308",
+    "polyline": "qkmwFbvpbMvBbWdEFRaKzBHBaBzABEdBzOb@A|BbVuWt@{Bb@iBoJVcOSqEfDaDoDiAM{IkEkGu@",
+    "level": 3
+  },
+  {
+    "name": "Ditmas Park",
+    "key": "Ditmas_Park",
+    "parent_id": "300",
+    "id": "343",
+    "polyline": "iq~vFpyjbMos@tGaYtWyMbAbGfjAtt@yNdQ{CmBgFhXmC",
+    "level": 2
+  },
+  {
+    "name": "Fiske Terrace",
+    "key": "Fiske_Terrace",
+    "parent_id": "343",
+    "id": "352",
+    "polyline": "ip~vFptlbMgBc[uMbAfB~[",
+    "level": 3
+  },
+  {
+    "name": "Downtown Brooklyn",
+    "key": "Downtown_Brooklyn",
+    "parent_id": "300",
+    "id": "303",
+    "polyline": "cflwFhoqbMS`OqCtEx@lBzDbAnEv@zHEpScEzExBhQjGpEaSwDuBpSgt@p@f@dDkKsUpOcFtBX_Q}VnBy@d@kBdCu@^oBPgFF[lBq@jBiVjXGvG",
+    "level": 2
+  },
+  {
+    "name": "Dyker Heights",
+    "key": "Dyker_Heights",
+    "parent_id": "300",
+    "id": "332",
+    "polyline": "sjzvFl}zbMxDsCnHcIjHuP`BwXxByY}bCshC_y@b`BkI|L|EsD|FeAn}@fXbi@dg@xWxQ~FrH`DfJtEnT",
+    "level": 2
+  },
+  {
+    "name": "East Flatbush",
+    "key": "East_Flatbush",
+    "parent_id": "300",
+    "id": "358",
+    "polyline": "_dcwFhtdbMq{@rbAm@GFbLoC`hAXbPnnEkUPbE`{@q~@ecA{gBobA~E",
+    "level": 2
+  },
+  {
+    "name": "Farragut",
+    "key": "Farragut",
+    "parent_id": "358",
+    "id": "309",
+    "polyline": "epawFbmebMgGk@|@v_@pBMN|Dx@rD`AjJrAj{@zrA{GaBsL{BuL}Qub@{Oia@",
+    "level": 3
+  },
+  {
+    "name": "Wingate",
+    "key": "Wingate",
+    "parent_id": "358",
+    "id": "330",
+    "polyline": "e_dwF|wgbMe]nB{Dk@_Bxr@XbPli@yC",
+    "level": 3
+  },
+  {
+    "name": "East New York",
+    "key": "East_New_York",
+    "parent_id": "300",
+    "id": "314",
+    "polyline": "a`dwF~o`bMhDh@oBeV~ScEnOaKt[m_@zDm@zD}BvGaG|EoMxWa[nBoHjCqFhF{DtCsF^mJaCwFwE{FuD_DaDI}AoEn@oFgB{IuHoOmCwEk@kIy@oHsA}IgEcCcIz@kFnCoDGqEkBoJm@}DnCgDpF{O~J{AlBaThP_EgOgAkPmSnC{AqPuo@fKhAjPmp@~JHrDcShDxAxJsGdAuKt@cRpDoP|Bl@~EvArIjBxHxGbSrRng@nPfd@}MzKjJpRyIjFbJxHzCvAjJj@hLnCzAbAzCvHpGpT|ApEl_B}W",
+    "level": 2
+  },
+  {
+    "name": "City Line",
+    "key": "City_Line",
+    "parent_id": "314",
+    "id": "316",
+    "polyline": "aafwFvqzaM{ImiAwGz@hAjPmp@~JHrDcShDxAxJsGdApLnl@`PqCvBiAh|@_N",
+    "level": 3
+  },
+  {
+    "name": "New Lots",
+    "key": "New_Lots",
+    "parent_id": "314",
+    "id": "315",
+    "polyline": "wxbwF|g_bM`JyKcFqFsVwv@q_@ekA_AmIwFkw@kIt@{AqP}f@jIdDjc@tD`e@jJhNjx@pdC`BbDfC~IvJwA",
+    "level": 3
+  },
+  {
+    "name": "Starrett City",
+    "key": "Starrett_City",
+    "parent_id": "314",
+    "id": "317",
+    "polyline": "a|awFng~aMzDm@zD}BvGaG|EoMxWa[nBoHiPcIkc@yLei@`a@gA|AmFnD|Wry@jFjG",
+    "level": 3
+  },
+  {
+    "name": "Flatbush",
+    "key": "Flatbush",
+    "parent_id": "300",
+    "id": "346",
+    "polyline": "_lcwFdglbM|ChK|WcC~PkB`NaBs@aK~DS~Gu@bL_KlEkEfCkCfAYbYwC`Y_DoCso@cdBxImt@jD",
+    "level": 2
+  },
+  {
+    "name": "Flatlands",
+    "key": "Flatlands",
+    "parent_id": "300",
+    "id": "360",
+    "polyline": "s|zvFljebMab@mu@wF`HcuAfH~bAtgB",
+    "level": 2
+  },
+  {
+    "name": "Fort Greene",
+    "key": "Fort_Greene",
+    "parent_id": "300",
+    "id": "304",
+    "polyline": "kxkwFhlnbMm@td@g@dV|T{@dAq@zAuBd@[lWyBUvP|FeCzV}O~Al@fCoJjKuv@",
+    "level": 2
+  },
+  {
+    "name": "Gerritsen Beach",
+    "key": "Gerritsen_Beach",
+    "parent_id": "300",
+    "id": "370",
+    "polyline": "okvvFtgfbMtEqElKcOOsMPaKsAkMuBqFsbArjAnL~S`JgLnVi@",
+    "level": 2
+  },
+  {
+    "name": "Gowanus",
+    "key": "Gowanus",
+    "parent_id": "300",
+    "id": "320",
+    "polyline": "}vewF|gsbM`H{OiYeVmKaIaW{Re[{RkN~g@xRnLlQxMgDhJpBnAgD|Jd_@zM",
+    "level": 2
+  },
+  {
+    "name": "Gravesend",
+    "key": "Gravesend",
+    "parent_id": "300",
+    "id": "337",
+    "polyline": "uavvF`xsbMdApFlBfAxEtIzHj@lDQvPavA}EsBiQkUdB_R|@iRe@yOqCiW_AcNYiIgy@mL{uAtOrBh`@aMzAvIt~ArqAztA",
+    "level": 2
+  },
+  {
+    "name": "Greenpoint",
+    "key": "Greenpoint",
+    "parent_id": "300",
+    "id": "301",
+    "polyline": "qqswFhjlbMhG|GPjE`Ia@lCnAbCCVlFbCMU_GzFiBbNuBdIb@vKdCdAcCxb@_y@pAGaBw]_AkB`Em@gPs\\cGgKeIuPsF}[aBaEoAqCuG}HyA`IWrCoAbRuB`K{DpI}CdE{ErBiGjBoErBuCdCaCvDqG~WwFxViBrIg@`EU~FFzGn@xHrC~H",
+    "level": 2
+  },
+  {
+    "name": "Greenwood",
+    "key": "Greenwood",
+    "parent_id": "300",
+    "id": "367",
+    "polyline": "}mewFxvrbMuGfPm\\zPlP`FvPx^hElb@bD~MpOjSxdA{qBpBhBta@{x@{AoC{Nch@]sGcq@dHwFfMoDuD}F~KeDbGyDrCgNrK",
+    "level": 2
+  },
+  {
+    "name": "Kensington",
+    "key": "Kensington",
+    "parent_id": "300",
+    "id": "340",
+    "polyline": "cw`wFrxpbMqEcOhjAgMbDxIhHuMtAoDm\\i|@eQ|CwpAvVdC|Im@rLfC`g@|Nvg@",
+    "level": 2
+  },
+  {
+    "name": "Manhattan Beach",
+    "key": "Manhattan_Beach",
+    "parent_id": "300",
+    "id": "350",
+    "polyline": "}wsvFrsibM_BcLd@aHW}\\tACC_BuA@IaFgAqACaAx@mBOoVaC{Aw^pH^tz@WlEyFri@z@fUeEj@LpB`v@eJUaB",
+    "level": 2
+  },
+  {
+    "name": "Marine Park",
+    "key": "Marine_Park",
+    "parent_id": "300",
+    "id": "361",
+    "polyline": "uh{vFzfibM`e@wi@d@^~@D`E}@~@zBrS_VeByCji@qm@jDxHlv@g}@eCcHLiIx@iItEaEnBcLgBeEeCyEq@{G\\qI^gHoAcFcCqEbAaWi{@`bAmcAhhAm}AdjBhGpTx^t[",
+    "level": 2
+  },
+  {
+    "name": "Midwood",
+    "key": "Midwood",
+    "parent_id": "300",
+    "id": "348",
+    "polyline": "wdzvFxnlbMeA{CkAcE{FsPwGeVy@uGeE_F}Ui`@c[eXaCeCcGuSks@jv@tKnwBt{AaQ",
+    "level": 2
+  },
+  {
+    "name": "Mill Basin",
+    "key": "Mill_Basin",
+    "parent_id": "300",
+    "id": "362",
+    "polyline": "}azvFvkdbMzaA{fAoJeIwFsMeEcMoJ}L_EeBaFs@KfLiHhC_Mi@cKXkFnDaa@th@sAwB{EzFxBpBjp@nkA",
+    "level": 2
+  },
+  {
+    "name": "Ocean Parkway",
+    "key": "Ocean_Parkway",
+    "parent_id": "300",
+    "id": "339",
+    "polyline": "u~~vFrsmbMr\\h|@vjAyM|u@aIsBi`@rHgAiMod@mzCh\\",
+    "level": 2
+  },
+  {
+    "name": "Old Mill Basin",
+    "key": "Old_Mill_Basin",
+    "parent_id": "300",
+    "id": "365",
+    "polyline": "iu{vFthcbMkIjJ`b@ju@dIyJ",
+    "level": 2
+  },
+  {
+    "name": "Park Slope",
+    "key": "Park_Slope",
+    "parent_id": "300",
+    "id": "319",
+    "polyline": "a~dwF~_rbMfNsKxDqCdDeG|F_LqFaG{MiKg`A_v@sCsByAKDwBaJvBg{@lj@mAvDxr@ra@fy@|o@pGvF",
+    "level": 2
+  },
+  {
+    "name": "Prospect Heights",
+    "key": "Prospect_Heights",
+    "parent_id": "300",
+    "id": "326",
+    "polyline": "cbiwFtuobMp{@{j@vImBXwCrGgE}ImC`DcQlFxA`CFr@kAT_DQsB^cEsJtAuR|Aef@`GoO|iA",
+    "level": 2
+  },
+  {
+    "name": "Prospect Lefferts Gardens",
+    "key": "Prospect_Lefferts_Gardens",
+    "parent_id": "300",
+    "id": "329",
+    "polyline": "}kcwFjglbMoCqmAgo@fDsCTjC|lAh@hJnB`BrA`@rq@aG",
+    "level": 2
+  },
+  {
+    "name": "Prospect Park South",
+    "key": "Prospect_Park_South",
+    "parent_id": "300",
+    "id": "355",
+    "polyline": "emawF~hlbM}UrC}UtB}OhBpIjZlMyHjO`i@`[eG",
+    "level": 2
+  },
+  {
+    "name": "Red Hook",
+    "key": "Red_Hook",
+    "parent_id": "300",
+    "id": "318",
+    "polyline": "_~gwFtbxbMrJa@`E{@hEz@dUeEn]yC~H{Dj@i]sCoMiEia@sPm_@iQqFmp@d_@uItHqb@|ShZxh@rOxY",
+    "level": 2
+  },
+  {
+    "name": "Seagate",
+    "key": "Seagate",
+    "parent_id": "300",
+    "id": "345",
+    "polyline": "cqsvFjfvbMtBoKDsHvByJ~CeMdCaE}aA~Kf@|HnDbD^pP~BhMjIzGrDFlF}AnDY~DcC",
+    "level": 2
+  },
+  {
+    "name": "Sheepshead Bay",
+    "key": "Sheepshead_Bay",
+    "parent_id": "300",
+    "id": "349",
+    "polyline": "ytwvF|`gbMgLgTvJyKgDaIei@jm@dBbDuSbV}@yB}Dx@iAGc@i@_e@`j@gO`BxUh`@hCtBjBhIbGlUtGnRhEzOxIj_@jlAoMfy@lLy@yVaCuZg@aI@_MtKw@QiDx@Gq@sKi@sPWuL^qM?_ICwC`@[LcLZw@]wHR{FpAeX[mJaAeCCmGl@aPx@kWjBsIXoMfBuNUcEl@}DWyPcB_AkGdAyDbEmGv@uEjEs@`IQbIzFvOxApMQjKN|L}KvOcE|DuE|IqVb@",
+    "level": 2
+  },
+  {
+    "name": "Homecrest",
+    "key": "Homecrest",
+    "parent_id": "349",
+    "id": "344",
+    "polyline": "wdwvFhdkbMiEwu@oCwg@sBwc@wRc^k]db@nDbHsm@ps@}i@hGbT~\\pE~EtDzOhPbi@fC~IdaBqG",
+    "level": 3
+  },
+  {
+    "name": "Madison",
+    "key": "Madison",
+    "parent_id": "349",
+    "id": "366",
+    "polyline": "{wxvFzwhbM}_BbQlL|RvEbHrAfChCtBtD~OlfA{K",
+    "level": 3
+  },
+  {
+    "name": "Sunset Park",
+    "key": "Sunset_Park",
+    "parent_id": "300",
+    "id": "323",
+    "polyline": "qr`wF|a{bMcAqC}AyEo@qGQgFXwEl@gCrFgS\\_FSsF}AqG_CoGxDlAvEC~DkB~C{DdKiRdIoMfOkZ{aBmeBoOxYmBkBudAxqB`zBhdC",
+    "level": 2
+  },
+  {
+    "name": "Williamsburg",
+    "key": "Williamsburg",
+    "parent_id": "300",
+    "id": "302",
+    "polyline": "{ykwF`{lbMqImoAgEqq@{Ew]{DoTeKq]oDwM{NiRcSaToOxY{E\\{BaDg@aDsFfAkEhF}JXqB|@f@fCuJlDga@zOfMdVrF|[dItPjXzh@sEr@pA~A`Bx]uAJyb@dy@rChAfCtA|ErBfCnCfGjDuBvDhAv@hAuBlAv@dArDtFlElEnBdAkCzLlE|U`IVmAnHhBrGQpDkBdAoFbO_FbXw^",
+    "level": 2
+  },
+  {
+    "name": "East Williamsburg",
+    "key": "East_Williamsburg",
+    "parent_id": "302",
+    "id": "373",
+    "polyline": "_ulwFhzgbMlB_@{DoTeKq]oDwM{NiRcSaToOzY{EZ{BaDg@aDsFfAkEhF}JXqB|@f@fCuJpDw\\bNmAhGdKpOrFz[lMdWvSiB|MpHpGNdEgBzFuBlFuBxCa@h_@gDtC_@fBwArC}E~Au@",
+    "level": 3
+  },
+  {
+    "name": "Windsor Terrace",
+    "key": "Windsor_Terrace",
+    "parent_id": "300",
+    "id": "324",
+    "polyline": "ardwFhepbMnLrJ|LnMdG}Lzp@uHgBw]j@sLeCeJeT`EgTtE_RdDcAbA",
+    "level": 2
+  },
+  {
+    "name": "Astoria",
+    "key": "Astoria",
+    "parent_id": "400",
+    "id": "401",
+    "polyline": "ydywFln_bMpAwIyDw]wJdC}@dAgWpC}QeAm]zKcRt]cIoFkWp^mPf~@x~AdvBeKbPfBrWbThPrQu@jJaSpTdh@xWnRz\\wfAt^{dAyCqSi@mI^iIlAgLv@wLBqCw@yBkHuFwRqE_KyFcJaD_FgCeH}ElAiDgUjG}Bk@",
+    "level": 2
+  },
+  {
+    "name": "Ditmars-Steinway",
+    "key": "Ditmars-Steinway",
+    "parent_id": "401",
+    "id": "474",
+    "polyline": "otzwFf{dbMrU_`@dNe{AdFqi@|@gUyBeUqf@nF]dEaEiAuGm@{IdB|EdHoDpCmHeGuDfHeCgFwD|DeFnJ~@nEcDrFA`@x@`B@p@~AbDx@tBAj@O~@@DDAFa@TtI`@fAxAxBfCxAz@JLHNP?PEPKNO@Oh@oBIoBeAqBsBgAiB?AU]GOASMsLEWS_@}L{PMM{BrA{@`AqBlAGJAb@Mj@_CnDyDpGs@`AgA`A?FD?q@zBQlBUfBEHMtBOxAAl@KbAUzAqAhMKl@GNqB|QBxA^d@Pb@~AnCv@GHFZfACHQT?Rh@l@D@PKF?V^fAbDfCzDh|@pfA",
+    "level": 3
+  },
+  {
+    "name": "Auburndale",
+    "key": "Auburndale",
+    "parent_id": "400",
+    "id": "431",
+    "polyline": "wtswFrulaMoDs_@{CmWqTgrAsBaTqi@fLaPnGua@xIySfD{^lR}H|CaQlIyMtAsJPlKfm@~EdVfXaW`\\qUfD{FpGkIfGiA`RyHta@n_@}End@de@PzA~Ur@d_@lA?bGnFtFs@lL?zQ|@",
+    "level": 2
+  },
+  {
+    "name": "Bayside",
+    "key": "Bayside",
+    "parent_id": "400",
+    "id": "428",
+    "polyline": "wqywFpheaM}HpFyI_K_LhKwo@hq@a\\d\\kAmMsJuDaPtDkd@l\\pIzh@|SrKzKvj@fb@ue@f\\qGbVy@rJQxMuA`QmI|H}Cz^mRhPeCde@{J`PoGpi@gLwHeTyGsa@eMke@iIum@}AwH}CgHkHkMaOlLgNtNcEtJsCfLeCvM_MpJcIpHwKrB",
+    "level": 2
+  },
+  {
+    "name": "Bay Terrace (Queens)",
+    "key": "Bay_Terrace__Queens_",
+    "parent_id": "428",
+    "id": "480",
+    "polyline": "gd|wFvbgaM{\\b^s@kOqJuDaPtDg^|W{A|StElUpTrNxKvj@|KiIjHcN|ImJnPcGxLgAzQc@fCSkF}UeDcQeByJqCqByMuX",
+    "level": 3
+  },
+  {
+    "name": "Bellerose",
+    "key": "Bellerose",
+    "parent_id": "400",
+    "id": "443",
+    "polyline": "qlqwFbf_aM^wC|@yKt@qCfBqFzBmEAwA{Fa\\yC{[{Z`B_KjB}NbEaAwHwo@jUvHnV|Gv]sE~IgKpWfDhDnEtG~N~QNwAvH`@rBtWfMxPzDvGhDzDfCxDnDaBx@WlCgEfJaq@hGyb@vBwJ",
+    "level": 2
+  },
+  {
+    "name": "Briarwood",
+    "key": "Briarwood",
+    "parent_id": "400",
+    "id": "446",
+    "polyline": "o_mwFlgpaMK}Cs@cF}Hmb@wIod@aBt@i@h@m@v@c@z@eAxCw@nA}@r@oFbDs@^WH_C\\_Eb@kCx@yBtAu@^{AXaD\\OrESdIRbO?x]m@rGy@~Fg@vERnFpDfRvFwElJmGpMyPfM_IhWsK",
+    "level": 2
+  },
+  {
+    "name": "Brookville",
+    "key": "Brookville",
+    "parent_id": "400",
+    "id": "479",
+    "polyline": "_oewFpsaaMi@xd@\\v`ApS`KnQtHvR}LlRjNbAg_A`Bis@yQ`@IlEGnAk@pDuAxLuF{Ei\\{VuCqCqIkMsCcCo@lE",
+    "level": 2
+  },
+  {
+    "name": "Cambria Heights",
+    "key": "Cambria_Heights",
+    "parent_id": "400",
+    "id": "437",
+    "polyline": "_ckwF~kbaMzAo@`Bg@hFcCbBgAdFkD`@_@`JoFdD{Bp@kCdAwEbCyLh@wCnDqPxB_L|BqKh@{CxB}KaB_@kB[kIH}HTkNX}CNeNZwNVeHF}DHkDDmFLcBAcLNcAzeAInGGdCETAtBxJ`m@`Bo@~Ae@rEeBz@UtG{BrNeFpBm@",
+    "level": 2
+  },
+  {
+    "name": "Clearview",
+    "key": "Clearview",
+    "parent_id": "400",
+    "id": "459",
+    "polyline": "{}zwF|xlaM|HwH`CqFp@aA_AcK_DaJmKgm@zCfQ{CgQcVx@yLfAoP~FkL|MeF~IlJlYhBtRo@bSiBzi@rGsMpa@aW",
+    "level": 2
+  },
+  {
+    "name": "College Point",
+    "key": "College_Point",
+    "parent_id": "400",
+    "id": "418",
+    "polyline": "qt~wF~ywaM`]MfO~[xMY~W}ZEkZffAmBxXgTLi[oCsReLqGsM{OyMgX_JaJcNoGcF|Ic_@fCiUxC{R~EkWwIaPyGgBgNmIjaA",
+    "level": 2
+  },
+  {
+    "name": "Corona",
+    "key": "Corona",
+    "parent_id": "400",
+    "id": "409",
+    "polyline": "a}xwF|iuaMzPr_@rLhs@xAxFnFuMfKyE|ViHdId`@zCdPlAzOrCtf@vG{D`]mE`LPzi@gQoOut@aEs^kb@inAaNqNwUcGqVrNsO`Hw^PqKhDcRM",
+    "level": 2
+  },
+  {
+    "name": "Douglaston",
+    "key": "Douglaston",
+    "parent_id": "400",
+    "id": "429",
+    "polyline": "s{xwFp}caMi^vj@fPwEzOcEtOsOzE_MnCiOtEmLbHcHvEiGxAcLs@yJYaGwTgd@cFeTyLaViG_UwHzD}IfXcElEe@rH}F`K{AfMQnQsLbLiD~EuFrDwFYwNjHeIdOV|@cDtGiHhIo@hAFxAXnAb@xAl@nA`Ap@fCpCbB@jFfDvCHv@b@lANvDzAtA?f@z@f@Gh@s@r@IlAyAtGqBhBSlCwAz@LjBpChCxKhIeE`QQ",
+    "level": 2
+  },
+  {
+    "name": "East Elmhurst",
+    "key": "East_Elmhurst",
+    "parent_id": "400",
+    "id": "406",
+    "polyline": "oywwFzdxaMoCzWlAdELvJlB|ZfBbf@gZzCgR`jBaDy\\aAoE_EmP{BgGmIiRkBmEkAwEu@uFYyFSkHL{D`@wEdAmFnC{H|FeKnHcKhGsGrHkGvSeP~BoD`CmHh@aD",
+    "level": 2
+  },
+  {
+    "name": "Elmhurst",
+    "key": "Elmhurst",
+    "parent_id": "400",
+    "id": "408",
+    "polyline": "gvswFls~aMb\\mMpQ{ErJyBhCg@s@uHOcNsAkLqHmZkF{VaMoj@ui@~QkDHgG[o\\lEwGrDdCzi@nK~sB`CiD|]uP",
+    "level": 2
+  },
+  {
+    "name": "Floral Park",
+    "key": "Floral_Park",
+    "parent_id": "400",
+    "id": "442",
+    "polyline": "exswFbvy`M~EnKrJvWbJdXgBj@fGvT|FuAfM_AtDa@~JSs@yK_AsKqD}WcIqp@qZbI",
+    "level": 2
+  },
+  {
+    "name": "Flushing",
+    "key": "Flushing",
+    "parent_id": "400",
+    "id": "416",
+    "polyline": "yaxwFvqtaMv^QpOcHpVqNvU`G`NrNEaCm@wJhFc_ArSi}@|@{JXmSd@ob@{Q}@mL?uFr@cGoFmA?s@e_@{A_Vee@Q|Eod@ua@o_@aRxHgGhAqGjIgDzFaS`N_HnFwV`UaB`CaCpFiBzCsGlhBmBrP_BjXVjOHbRc@lBvXxRvOdZ`LvMdLrGdRf@",
+    "level": 2
+  },
+  {
+    "name": "East Flushing",
+    "key": "East_Flushing",
+    "parent_id": "416",
+    "id": "456",
+    "polyline": "mfuwFnyoaMsOmZqGmLr@aW~I{DpIrBs@e_@{A}Uee@Q|Eod@qa@{^wUdJuCHsGhI|@tP`ClEzB~E|HnPxMpLrYpYE~PaAnc@QrSgZxm@xJhb@rO_V",
+    "level": 3
+  },
+  {
+    "name": "Murray Hill (Queens)",
+    "key": "Murray_Hill__Queens_",
+    "parent_id": "416",
+    "id": "457",
+    "polyline": "mczwFfeoaMa@zO`AdLhFvy@`EgClYsDtB{@zQcHbHqChF}AyLckAaGodAgAs`@gVsAcGk@R~HqI}EgX`Wq@`AaCpFdIfPhHvQ_@pS",
+    "level": 3
+  },
+  {
+    "name": "Forest Hills",
+    "key": "Forest_Hills",
+    "parent_id": "400",
+    "id": "415",
+    "polyline": "{nowFdjxaMbFWvGIhHs@nK}@`NiBbEyCvBiDoI_b@EmC^mEH{DUmE{AkImGqRcBgOKkGYgAwC}B_@ZeOa^qFq^aDjLwB~LoCbG_NjN_J|G}PzIeTjIk^|\\aMvEa[~B`Ong@nBfHHgAj@jEd@YdCvLlPcHWiApByA_BkItBcAbBvIdCmAcBuIfCaAfBtIjKeFlCL~B`K~G|DbWhNXzF",
+    "level": 2
+  },
+  {
+    "name": "Fresh Meadows",
+    "key": "Fresh_Meadows",
+    "parent_id": "400",
+    "id": "419",
+    "polyline": "ylrwF~egaMaJfGoKnFsFdBsOxDaWpIpTfrAzClWvKTnFPtPrA|B]~CxAxAIfEiAgFu^}I{_@pWyJ?C",
+    "level": 2
+  },
+  {
+    "name": "Glen Oaks",
+    "key": "Glen_Oaks",
+    "parent_id": "400",
+    "id": "439",
+    "polyline": "cltwFv__aMrE_JoKmd@qBaIaCaG}CqGeCmGmTqf@uEwI}D_JaDuKgCqFc@j@yDxGeFtCcMdAeERwFyA_A]j@dEd@fKM~JwApWH`I@lDl@zH^fC|@rDtAjDvBbDrBbCdA|@dAp@bDtAxE~BjE`DhIzPxGfHnBjAhMfDtW~RnEsJ",
+    "level": 2
+  },
+  {
+    "name": "Glendale",
+    "key": "Glendale",
+    "parent_id": "400",
+    "id": "413",
+    "polyline": "arnwFfeyaMtGnPnGj]jJ`VtC|GfCt}@yKr_@xMlChIdClTzQxXpWb]~RsCck@dIoc@sB_RoBeSnDqKVgBWwCAiB^sBrN}MyGcSiByHyAsIm@aFsSfGk@yDoQhLi@sBwBiDeBq@aLoCuCwB}AwCoAgGe@mHRmIv@yHJmFpKr@^iKcCOi@kOeH\\v@kQqOzLeBs@}GAdG`WyBfC{C~@gTtAcHl@sH_@",
+    "level": 2
+  },
+  {
+    "name": "Hillcrest",
+    "key": "Hillcrest",
+    "parent_id": "400",
+    "id": "453",
+    "polyline": "qkpwFh}maMsZwnAg`@|K_BD}CwA}B\\gNkAiTk@lC~P`A|Pm@xQYnQl`A|AdL{@",
+    "level": 2
+  },
+  {
+    "name": "Hollis",
+    "key": "Hollis",
+    "parent_id": "400",
+    "id": "434",
+    "polyline": "aimwFdshaM|AwP}AuRiCwXcANaCePhAmCl@qEb@sMBmDr@}Dd@cGwFge@og@lPoUtP}UjOdKh\\|GnNfNbj@rFfZ~Dh\\b`@oNpLcD",
+    "level": 2
+  },
+  {
+    "name": "Howard Beach",
+    "key": "Howard_Beach",
+    "parent_id": "400",
+    "id": "425",
+    "polyline": "cjawFlhwaMt@_r@cE}p@uM{|@oIf[aK~@tDsDpFaNlBiHg{@xOsp@hWit@joD|RyCs@sIYuElGiAxVyDrO}BxAhPnUqDHbSrDpM`YwS",
+    "level": 2
+  },
+  {
+    "name": "Hamilton Beach",
+    "key": "Hamilton_Beach",
+    "parent_id": "425",
+    "id": "467",
+    "polyline": "stcwFhvraMzArG\\x@t@b@hAPz@h@|@dApApArQsCtC_CpGuOlBiHqX`FyVhE",
+    "level": 3
+  },
+  {
+    "name": "Lindenwood",
+    "key": "Lindenwood",
+    "parent_id": "425",
+    "id": "470",
+    "polyline": "ctdwFdawaMwHeQyKi[uDkLgQvCub@htB|GaA`JwAu@sIYuEnGiAvVyDtO}BpArPtU{DHbSrDpM~TeQ`CqAoD}E",
+    "level": 3
+  },
+  {
+    "name": "Old Howard Beach",
+    "key": "Old_Howard_Beach",
+    "parent_id": "425",
+    "id": "471",
+    "polyline": "sbfwF`juaMbb@wHh_AwN~M{Bz[wEvCmAuM{|@oIf[aK~@kUlEeRvDq@cCgB{Rym@|U",
+    "level": 3
+  },
+  {
+    "name": "Ramblersville",
+    "key": "Ramblersville",
+    "parent_id": "425",
+    "id": "468",
+    "polyline": "k}cwF~osaMzCq@fOsCvNuC}LlBoCwC{@k@iAQu@c@]w@e@gBu@kDBaBaC^sHvBfBzR",
+    "level": 3
+  },
+  {
+    "name": "Rockwood Park",
+    "key": "Rockwood_Park",
+    "parent_id": "425",
+    "id": "469",
+    "polyline": "cjawFjhwaMt@_r@cE{p@or@|L_m@pJi_@hGbH|SjHtSvHdQ|PrVpV`]",
+    "level": 3
+  },
+  {
+    "name": "Jackson Heights",
+    "key": "Jackson_Heights",
+    "parent_id": "400",
+    "id": "405",
+    "polyline": "}xuwFprzaM_NfH{NhG_YbM{\\jDgTduBpHvC|m@vb@n`@}SbKaApU{KoK_tB",
+    "level": 2
+  },
+  {
+    "name": "Jamaica",
+    "key": "Jamaica",
+    "parent_id": "400",
+    "id": "432",
+    "polyline": "exlwFphpaM|EeBrJoDlJ_EyAgPmJof@oBeJmDiNiBqKoAyK_EoS{BeP{BkL_BcKcBuLP_LPgHj@cIAUaLfEyCz@k[|KbC`PxAfJD`@BjAEb@c@vBKn@Et@NvAvDhO`AjDrClJvDbSnAjGxYv}Ad@|CLfATnH",
+    "level": 2
+  },
+  {
+    "name": "Jamaica Estates",
+    "key": "Jamaica_Estates",
+    "parent_id": "400",
+    "id": "447",
+    "polyline": "_qnwF|~jaMOwAPeBb@yBDa@CkAOmAsE}YqEw\\sFgZ_Lqe@qI_RwKm]sGtFeDlGgCtG{CfH_IxGoa@vVzOvdA|Sp`A|IaEv@g@`Ei@~GIdFNt@Pl@Z~C`Af@fAbAxAj@b@tB~@vFZtAf@vDnBhBfAp@LvALl@EvD{AdBUxAGxC?LU",
+    "level": 2
+  },
+  {
+    "name": "Jamaica Hills",
+    "key": "Jamaica_Hills",
+    "parent_id": "400",
+    "id": "421",
+    "polyline": "ednwFpalaMKo@uCmJKRMDsBE}BHyATiCdAo@TOB_@@{@GkASiBgAyAw@}Aw@aAa@a@GgFYo@SgAi@i@c@eA{Ag@gA_DaAm@[s@QaCKeBC_HHuAHaANi@NoBpAeClAgDpA`DvMxHr\\nE~Q~FxUfFxT~@QlFgAnFmA|GsA|Dc@vBq@|BuAlBu@jC[hCWdB]pCiB~BsAfAu@h@y@pAqDdAqBvCcBcEyTcBoIcCsM",
+    "level": 2
+  },
+  {
+    "name": "Kew Gardens",
+    "key": "Kew_Gardens",
+    "parent_id": "400",
+    "id": "424",
+    "polyline": "ajlwFplraMaAwJsB}L{AqMiAsNI}Lga@zPiM~HoMvPoJlGwFvEtFx^bOx]bJgKxErLbAvA`KnG~B?zH_EhAJrCnGrSen@",
+    "level": 2
+  },
+  {
+    "name": "Kew Gardens Hills",
+    "key": "Kew_Gardens_Hills",
+    "parent_id": "400",
+    "id": "420",
+    "polyline": "amowFjpqaMSoF`BuMl@uGEie@MsG`@yOyXvFk[`IwMToFpAiFg@{y@{BQlS{@xJsSj}@gFj_An@lJzGIhUyD~Su@vn@qVhFcEjJ{O`IyG~IyEpD{@vLbA`Eb@rFyB",
+    "level": 2
+  },
+  {
+    "name": "Laurelton",
+    "key": "Laurelton",
+    "parent_id": "400",
+    "id": "436",
+    "polyline": "qoewFxvdaMQ_f@EmUViWZ_JQeAu@cCs@aBcAcBaAeAsFwEoBeAoEsCkHkE_HmEuAu@gBoA_Ay@oBwAkBiBmEuDmP}O{GqEoHqEuIuEyBxKe@pCiCxLwBtK_DbOwBvKUr@aAfFiA|EOf@Qb@qC`BcJzFoA`A_HvE}DhBvPvKtEbCrEjChOlKpIxDzIpC|B|@tBfAfFnDhMhI|ExApE`AnKt@~JfAdHa@|Ex@~E`ArDxAlFbC",
+    "level": 2
+  },
+  {
+    "name": "Little Neck",
+    "key": "Little_Neck",
+    "parent_id": "400",
+    "id": "430",
+    "polyline": "sqwwF|w`aMzH~Q|@tAbA`PrFwDbFoCnDiB`DuBbIqJtDgBbDaDvI}LbE}@fCkDRiDm@sGoCgGiTaKoEuAoD_CcH{KgCiGiDqCwSsC}HF}HnAqUlEbFdQbFbLhH`Of@rDlCdL",
+    "level": 2
+  },
+  {
+    "name": "Long Island City",
+    "key": "Long_Island_City",
+    "parent_id": "400",
+    "id": "402",
+    "polyline": "qsswFr{lbMhBuPcHgKgBiMr@mSwFwAeKs]eOuc@_Lkd@wOmzA_Eu\\gB}WoAkLgGzBM_AoEng@`BrOhB|OoTdj@sYn{@{Mff@rn@vg@rh@jg@ja@|U|VhI",
+    "level": 2
+  },
+  {
+    "name": "Hunters Point",
+    "key": "Hunters_Point",
+    "parent_id": "402",
+    "id": "478",
+    "polyline": "cluwFrogbMoNjOod@lrArh@~f@ba@~UlWxIhHs@fBsP}GiKgB_Mr@mSiF_BqKq]aO}b@",
+    "level": 3
+  },
+  {
+    "name": "Maspeth",
+    "key": "Maspeth",
+    "parent_id": "400",
+    "id": "410",
+    "polyline": "qqpwFvuebMtJkDg@cClB_A`K]jEiFrFaAh@zCxB`D`FaA~CkqAp@eWbCkoBkIgCaMeFgUeH{O{BiNJ_ThCeCl@wJrBqQzEc\\lM_N~F}]tPaChDfDuApFH|RpV~KfPxLha@xH|cALxHp@bG`@|B~AdHnD|HtBrC~C|BnPhKhHpG",
+    "level": 2
+  },
+  {
+    "name": "Middle Village",
+    "key": "Middle_Village",
+    "parent_id": "400",
+    "id": "411",
+    "polyline": "oumwFdl{aMkJaVoGk]gOu_@gCQeDbByMbOcMnLq]n[aDpAwOrF_IdB}LQrArGxCbNvHh[jAvJN~Nr@tH~SiChNKzOzBfUdH`MdFjIfCjXpFxKs_@gCu}@",
+    "level": 2
+  },
+  {
+    "name": "New Hyde Park",
+    "key": "New_Hyde_Park",
+    "parent_id": "400",
+    "id": "449",
+    "polyline": "exswFbvy`Mw@wA~A`L|@pHlBjN~Dn[dE~Z|FiB~FyAgGyTfBk@wU}p@",
+    "level": 2
+  },
+  {
+    "name": "North Corona",
+    "key": "North_Corona",
+    "parent_id": "400",
+    "id": "407",
+    "polyline": "g~uwFhcyaMw@aH{CePeIg`@_WjHeKvEgE|KoCzWlAbELxJlB|ZfBbf@rAO~XcMzNiG~MgH",
+    "level": 2
+  },
+  {
+    "name": "Oakland Gardens",
+    "key": "Oakland_Gardens",
+    "parent_id": "400",
+    "id": "451",
+    "polyline": "ifvwFr}baM|AvHhItm@dMje@xGra@vHdTrB`T`E}A~PsFrOyDrFeBpGkDdWkOxWqQ\\_P|AyRo@mMkAiJuBoHyC}IiCiFmCyDkDeGmC_C{HwKmHqFiFuIgMyPsBuWuHa@`Hl]qPhArHfu@cNjNgHax@uSvHaCsLoPtFeJjDoAhF",
+    "level": 2
+  },
+  {
+    "name": "Ozone Park",
+    "key": "Ozone_Park",
+    "parent_id": "400",
+    "id": "426",
+    "polyline": "c`gwFtjxaMnSmbAvFcXhDeRlK_k@kLxE}IzC{i@vTqRhHg@nGo@hFSvDp@lEDzDHdFLrB\\~OLrC\\fPLdB@|BXvGb@lSb@dMLzExAYrBWnFy@nIiAlCi@",
+    "level": 2
+  },
+  {
+    "name": "Pomonok",
+    "key": "Pomonok",
+    "parent_id": "400",
+    "id": "454",
+    "polyline": "sepwF`pnaM}DwQsf@~BkKG_JQyf@o@oBYKpM[fTv_@|@vOd@xHPxC`@b@@|@IlAStBs@XGzD?dCAjCQhCk@jLcD|Bi@jE}@",
+    "level": 2
+  },
+  {
+    "name": "Queens Village",
+    "key": "Queens_Village",
+    "parent_id": "400",
+    "id": "438",
+    "polyline": "m}owF`v~`MpK~InUpAtWyFtMWpNg@vIJiA`hAG|EGnBEV?lBDd@lCzOdFd[sb@vNwg@lPiRbNyX|QqGtFgDlGgCtG{CfH_IxGLyP|AyRo@oMkAgJ{C}K}CwImF{HkDeG{FiHmEmFtB[v@Q^[xBkDhHqg@bHkg@l@aEp@aCj@eClAiGlAaO|@iD~AcF|JlAhEt@dE|@lFvA",
+    "level": 2
+  },
+  {
+    "name": "Rego Park",
+    "key": "Rego_Park",
+    "parent_id": "400",
+    "id": "414",
+    "polyline": "ktqwF||zaMvOsF`DqAp]o[bMoLxMcOdDcBfCRrH^bHm@QgHeAaDcBREy@_QzAyGHcFXo]vBY}Fa`@gTaCaKmCKkKbFeBuIiCbAdBtIeClAeBwIuBbA~AjIqBxAVhAkPbHgCyLe@Zk@kEk@dInQd|@`Mnj@|LP",
+    "level": 2
+  },
+  {
+    "name": "Richmond Hill",
+    "key": "Richmond_Hill",
+    "parent_id": "400",
+    "id": "423",
+    "polyline": "ezkwFzyoaMqYbLCnLx@fLtCjUjAdH`Eb`@uSln@h@fAlArBfHdJ`CjIvEbKdFnXdqAqg@iM{o@_h@}nC",
+    "level": 2
+  },
+  {
+    "name": "Ridgewood",
+    "key": "Ridgewood",
+    "parent_id": "400",
+    "id": "412",
+    "polyline": "s~jwFvqabMxJgTe]_SyXqWmT{QiIeCeg@_KcCjoBq@dW_DjqAhOwXlKxKjg@ubAhEtE`GiLtDzD`[}l@",
+    "level": 2
+  },
+  {
+    "name": "Rockaway All",
+    "key": "Rockaway_All",
+    "parent_id": "400",
+    "id": "477",
+    "polyline": "cgmvF~bibMypGm~Ze_@ckDuBk~@bFst@sAeMsJuEoNma@b@sj@aCqOcVrFaIr@uHpCuEFyElA}\\j\\_HrfB}AGoEzKfB`CgB`G{@hHiHOaAlDaAlFjHh\\tCxCtBbSctAxtAsc@dbEkv@dOzLvg@{LpVxb@{DbPgCvbBd_@dI{RuD{KoAcHhDqVzAsGpTsNLho@fOre@vQ_FvQgY`q@pxA|Yal@dzEv|T",
+    "level": 2
+  },
+  {
+    "name": "Arverne",
+    "key": "Arverne",
+    "parent_id": "477",
+    "id": "448",
+    "polyline": "}xuvFpcmaMcQ{|A_SlBqt@dAsBfJsHsDuDmE{BjDdUv`@hBnT^xNlBtWdHnQrKcHr@GxKuL",
+    "level": 3
+  },
+  {
+    "name": "Bayswater",
+    "key": "Bayswater",
+    "parent_id": "477",
+    "id": "462",
+    "polyline": "ae{vFbpgaMtCxChC{@tEmEhF}LhCbAnEbDzo@lEtCc@l@iGl@sHqPg\\yBwMd@yU{AmIsM{@gKtb@{ZuHoEzKfB~BgB`G{@jHiHOaAjDaAnF",
+    "level": 3
+  },
+  {
+    "name": "Belle Harbor",
+    "key": "Belle_Harbor",
+    "parent_id": "477",
+    "id": "463",
+    "polyline": "edtvF~_yaMnl@mXw^qpA}k@vXLvKlAfLhAnDfKpU",
+    "level": 3
+  },
+  {
+    "name": "Breezy Point",
+    "key": "Breezy_Point",
+    "parent_id": "477",
+    "id": "464",
+    "polyline": "chpvF`ufbMxX_LkMql@iEdBa@es@cBuYcWkAc[vMdQze@~A~Gh@bLOtEDlJ~BxJvNzB`ClI",
+    "level": 3
+  },
+  {
+    "name": "Broad Channel",
+    "key": "Broad_Channel",
+    "parent_id": "477",
+    "id": "441",
+    "polyline": "_j_wFtlsaMbPgC~T|EvlAfXdI{RuD{KoAcHhDqVzAsGpTqNLho@fOre@vQ_FvQgY`q@pxA|Yal@hQeu@mk@qiAi^yeAsTmq@mz@cmCctAxtAsc@fbEkv@bOzLvg@{LrV",
+    "level": 3
+  },
+  {
+    "name": "Edgemere",
+    "key": "Edgemere",
+    "parent_id": "477",
+    "id": "466",
+    "polyline": "yqwvFlmjaMff@iDqMuoAe^hA",
+    "level": 3
+  },
+  {
+    "name": "Far Rockaway",
+    "key": "Far_Rockaway",
+    "parent_id": "477",
+    "id": "440",
+    "polyline": "y_yvFzpdaMXtDe@xUj@rAlAbK`B|BnMfXfBN{@lHQrHfAjDx@tEpTPfVcAgBe|@tEyv@sAeMsJuEcFsOkGwPb@sj@aCqOcVrFaIr@uHpCuEFyEjAoB`BmYhY_HtfB|WlHdHcZ`BoGrMx@",
+    "level": 3
+  },
+  {
+    "name": "Hammels",
+    "key": "Hammels",
+    "parent_id": "477",
+    "id": "473",
+    "polyline": "qmuvFjroaMAqNm@mG{Hyu@mVrB{W|B_DpDwD`EcCxLy@xHva@js@pCxKpHtItOaKhOqH}BaK",
+    "level": 3
+  },
+  {
+    "name": "Neponsit",
+    "key": "Neponsit",
+    "parent_id": "477",
+    "id": "465",
+    "polyline": "uvrvFjfxaMsl@rXxJ`QzCuAbElO`Bq@`@jAp`@yQ",
+    "level": 3
+  },
+  {
+    "name": "Rockaway Park",
+    "key": "Rockaway_Park",
+    "parent_id": "477",
+    "id": "452",
+    "polyline": "sqtvF|lraMm`@|PjHv_@EhL~@|EtCr@VtIjd@aT",
+    "level": 3
+  },
+  {
+    "name": "Rosedale",
+    "key": "Rosedale",
+    "parent_id": "400",
+    "id": "444",
+    "polyline": "cyewFd}~`Mug@aCq_@mIyXz@iA|Ddj@z^rQlQ`VrNjIvEfOdQvAcKrCbCpIlMth@hb@`CmRP{Gps@oBiPmj@_ByUcDoUkHyU",
+    "level": 2
+  },
+  {
+    "name": "South Jamaica",
+    "key": "South_Jamaica",
+    "parent_id": "400",
+    "id": "433",
+    "polyline": "}rewFh`maMLsHDyKImOI{He@kUaGcAuGcAkPmCkNmGcLoPeBcHuFmIkD}GsAaCmEcRM[{AcFkBkFsHaLaCqAqHpOcHhL_IhLiGrEwPpLmTrPeApAuDpFkAjCqCbJ{EdGk@f@k@n@qJxJ_Ar@a@RGx@UVcA~@iGjExFxYnAtKjBtKjDfNpBhJlJlf@xAdPzGgDhDmBhDaBdO}GxTkKbEsBrMaGvTqI|NsFrAm@rAe@dDqArE_BnK}DdEmAvCi@hCQrDKtD?fHLvDPdCTtFl@",
+    "level": 2
+  },
+  {
+    "name": "South Ozone Park",
+    "key": "South_Ozone_Park",
+    "parent_id": "400",
+    "id": "427",
+    "polyline": "endwF|vqaM_Lqu@a@}KkBeKwHeVlCu`@_]gEkNBuFLuFf@_Cv@kFnBgGdC}HpCuErByBv@eE`AqBz@yFxBrBnKtFnZhA|FrCnOn@|CjHd`@nBrJpAbHPv@}AtQw@hG]hD}AzKq@nE_CrMSnAe@nGc@vGIp@dw@}Z~b@gPf_@{M",
+    "level": 2
+  },
+  {
+    "name": "South Richmond Hill",
+    "key": "South_Richmond_Hill",
+    "parent_id": "400",
+    "id": "450",
+    "polyline": "miiwFjjuaMvXqKjBxPrBaXtB}Sr@kDxDmW~Du`@sEkUe\\keBsIjEtBjOaCaOuOjHuh@bS",
+    "level": 2
+  },
+  {
+    "name": "Springfield Gardens",
+    "key": "Springfield_Gardens",
+    "parent_id": "400",
+    "id": "445",
+    "polyline": "waewFdbjaMpB_M`CeLrFeQfGqUbEgJ`GkN|Yip@mRiNwR|LaMcFoSaKqPqHuDc@gGwAsIPqIw@wFKgQeEuC_BgRqMcVqIsSkNlB`ItAlEtD|K`BjErQth@lStEkOna@yGdO`CnAtHbLx@tB|C~JjEvQdAjBtDnHdBnCrCbEdB~G`LpPjNlG|`@rGnH`DjD|B",
+    "level": 2
+  },
+  {
+    "name": "St. Albans",
+    "key": "St__Albans",
+    "parent_id": "400",
+    "id": "435",
+    "polyline": "eeiwF`lgaMzCmGrCsItG}MvJ_XqE}@}C}@sGyAmD}JuCwGoGqRgGsRuBwHgBuFsNgI_MgIeGlBqEhAeFbBcDrAyFjBqElByEhAyNrFwDtAuBp@gNzElAfIfBdPlApL}ApJMlKw@nLuA`E~B~NhAY`AvMh@nI`AhKf@tHi@rHg@pFDzJi@`IOlFSxM`BvL`BbKzBnLfAfIxHkFhAaDvEoCfAcBtCyDhBwBvDyDxAcF`CeGdB}BnCcEbLuInEsDnAe@bEoD|B}AbDmB~CiCpEkDbEqGjFuI",
+    "level": 2
+  },
+  {
+    "name": "Sunnyside",
+    "key": "Sunnyside",
+    "parent_id": "400",
+    "id": "403",
+    "polyline": "cbtwFfxjbMdF`B~Kki@bDiNhCqHnBoCrF{BxBk@lEyA|EsBxCkE`EuInB_K~A_VbAoHf@c@sH}IsPqK}C}BsBoCcBwCmAiD}@gDcA{Fq@cGOaIwEoAsAFuWsGl@uG}J}BR{DyTwCC|@cL_Bl@uK{At@w@?wB{@aIqAyDxArAbLfBvWbGfh@rMnoAfL`e@zOhe@",
+    "level": 2
+  },
+  {
+    "name": "Utopia",
+    "key": "Utopia",
+    "parent_id": "400",
+    "id": "455",
+    "polyline": "yiqwFfdkaMsMcm@oBoIqWxJ|I~_@vFv_@nQ{GfG_B",
+    "level": 2
+  },
+  {
+    "name": "Whitestone",
+    "key": "Whitestone",
+    "parent_id": "400",
+    "id": "417",
+    "polyline": "ga_xF~vraM`PxGjWvIlEcDhCWfOuAdLuAba@{CbF_Jb@mBIcRWkOlBsU~AkSrGmhBsEzCcXdT_SrK{UtLzBes@iBuRmJiYaPxLkKhByLCef@tjDpTtW|CpL",
+    "level": 2
+  },
+  {
+    "name": "Beechhurst",
+    "key": "Beechhurst",
+    "parent_id": "417",
+    "id": "461",
+    "polyline": "uj_xFhinaMzfA|HxC_~@uBkSaJwXaP|LwJnBmMI",
+    "level": 3
+  },
+  {
+    "name": "Malba",
+    "key": "Malba",
+    "parent_id": "417",
+    "id": "460",
+    "polyline": "{j}wFluqaM_KuBwKtAwBEc\\nRfBfNtTnIvR`HvJqCfN_CdLuAba@yCbF}IiS{J_JeEqK{A",
+    "level": 3
+  },
+  {
+    "name": "Woodhaven",
+    "key": "Woodhaven",
+    "parent_id": "400",
+    "id": "422",
+    "polyline": "ythwFh}yaMyAyJdSiDgFouBq@mEmBmPwXpKeqApg@fC`PRbF|AxV`NbiAj@xDrSgGnP{BbRqDtKu@",
+    "level": 2
+  },
+  {
+    "name": "Woodside",
+    "key": "Woodside",
+    "parent_id": "400",
+    "id": "404",
+    "polyline": "{kywFtu`bMa@jFgAvLzBf@hIqBzJsCmAdDfH~EbFhC|IzC`KxFjOvDnEhBnGdGBr@dLmEhFNdHbBfAQg@jKzK~AHeAzTvCUxD`K|Bo@tGfWpFtCj@fDfAyH{cAyLka@_LgP}RqVwFQ_[dOwJt@o`@~S_d@cZuGmIyI_B",
+    "level": 2
+  },
+  {
+    "name": "Arrochar",
+    "key": "Arrochar",
+    "parent_id": "503",
+    "id": "510",
+    "polyline": "}exvFrqbcMYeBm@sAsCoCD}@VQlALh@Sb@m@rAwCtBiBkPat@gGxDkAqDcEq@O`Ao@jBeAtFQdDMvDQnHeCrJ{E|PyA~Fw@~E_@xCYxCQhDbHp@hEh@fAHx@ItCwAzEq@tAd@tAj@rBtAfBnBdBpBPHNqFv@mDlAeEb@}C",
+    "level": 3
+  },
+  {
+    "name": "Bay Terrace",
+    "key": "Bay_Terrace",
+    "parent_id": "503",
+    "id": "511",
+    "polyline": "ocovFxmncMiDkFuEeGqGeKqMiOoHnGuL~CyJ~AkKfABb@SlA[`A`EpDnCfBbDhApBxBjB`CjAf@bFjAlAn@f@l@vA~CdB|EwGdMPlJjBjE~BzD_A|AjJKfI_AjB]@OjCaEv@WfAkAdT{\\",
+    "level": 3
+  },
+  {
+    "name": "Dongan Hills",
+    "key": "Dongan_Hills",
+    "parent_id": "503",
+    "id": "522",
+    "polyline": "giuvF|ohcMeZqd@f@}@dA}BhJcUmDwE}DmDhJcUS[aT{QqNsLgCkC{BwC_F~B}EwRc@\\mJ`FtBhI_AlAdBfGoArK[zJmDcB_FcBqGcBsFiBgEgBf@nDv@hD?dBDfDP`Dt@pCpAdC|EjFgFpSwE`QjHrCxEfE`JxInIzPN|FlAnBlIxPAhQpFx@~T`CjH{GhFSvGtBrFtCvHtEfBpAbCRfB]}@_AvDgInDmI",
+    "level": 3
+  },
+  {
+    "name": "Egbertville",
+    "key": "Egbertville",
+    "parent_id": "503",
+    "id": "523",
+    "polyline": "ugtvFf~lcM|BMlAOT_B|@_ENcBN}IJq@Ru@lCcFm@k@gEeN_A}AcEaD{CuC}@rCiHd@eGxDiDfFiVpYrPrg@Xe@j@k@p@e@n@o@l@u@`AeB^i@dDeD`BkAxF_Dd@QRCh@BvDfA",
+    "level": 3
+  },
+  {
+    "name": "Emerson Hill",
+    "key": "Emerson_Hill",
+    "parent_id": "503",
+    "id": "526",
+    "polyline": "uxxvF`igcMiDsAnEmPnFcT}EkFqAeCu@qCSaDC_D?oB{@qDgDHsFt@yGwINa@aFcFcAoASlBWbB{AdIi@nB{JnZOS{CzIiBvIm@jKb@|YRhV~Aa@Vk@h@s@rFqG~AqArCMrAU~@Fl@Tv@b@f@JlBPnA^lAf@HwAxCeBrBm@hEKpAzDrB_FhEoL",
+    "level": 3
+  },
+  {
+    "name": "Fort Wadsworth",
+    "key": "Fort_Wadsworth",
+    "parent_id": "503",
+    "id": "527",
+    "polyline": "o~wvFfc~bMeVgBuWG_YdXv@pK`@dBn@fBlAdEhDvJbFjNfFfNZOr@w@b@w@`@}@Pu@v@_BbAuFn@iBPaAbEp@hApDfG{DrBzIvC{BdAaAzAeAlAgAxAaA`@Gd@ObFiDjWqY",
+    "level": 3
+  },
+  {
+    "name": "Grant City",
+    "key": "Grant_City",
+    "parent_id": "503",
+    "id": "529",
+    "polyline": "cjtvF`licMrFiMzAuEvA}EwBwBiH_HoC_CcCuCeb@ik@kJhU_ApBk@bAxt@diA",
+    "level": 3
+  },
+  {
+    "name": "Grasmere",
+    "key": "Grasmere",
+    "parent_id": "503",
+    "id": "530",
+    "polyline": "e{wvFd{dcMnAmKeBeG`AmA_CaJuDlBmDxBw@Tk@AGkDXsMOGiBuBcBgB{B{AcDmAyEn@{CxAy@F_AG}Fs@wFg@WpTEjHUrE?t@dApA~E`FOb@xGvIrFu@lDKi@eDvEnBrE|AvFxAnGtBfD~A",
+    "level": 3
+  },
+  {
+    "name": "Lighthouse Hill",
+    "key": "Lighthouse_Hill",
+    "parent_id": "503",
+    "id": "540",
+    "polyline": "}isvFviocMcCsa@]iD{@gEuByHgBwHc@yBk@mB}@i@m@YiA_@i@KmAN_DPwDeAg@CU@e@RyF~CaBjA_C|Be@f@_@h@aAdBk@r@o@n@s@d@k@l@a@p@s@bBQv@Mr@zJpUtLxNhOnk@vMh@~NiB",
+    "level": 3
+  },
+  {
+    "name": "Midland Beach",
+    "key": "Midland_Beach",
+    "parent_id": "503",
+    "id": "546",
+    "polyline": "ocsvFxwgcM|S}g@~KqTzGqW}\\i^oToSqTqc@qVzj@iPj`@mF|MaNr\\|DlDvUp[nCxD|KfOnCbDzCjCjH`HlInI|CqH",
+    "level": 3
+  },
+  {
+    "name": "New Dorp",
+    "key": "New_Dorp",
+    "parent_id": "503",
+    "id": "548",
+    "polyline": "inrvFpglcM`@gAdJiQ~FwLpDcHjDkH`JmQ{D_C}DiCgVoQ{IeG\\aAcEsGu@iImHDeDnGuDyCm@aA}@fBeD~HeFgFgBdGiAjDkPp_@aE~Iz@|@|@v@hCnClAzAf@|@NlAJzBH~@xCvCt@h@nCvB|@|AfEdNl@j@t@XvACxF{Aj@En@BtCPv@d@t@h@vBtCnBvBPHx@h@n@Dn@JlA`@hAl@",
+    "level": 3
+  },
+  {
+    "name": "New Dorp Beach",
+    "key": "New_Dorp_Beach",
+    "parent_id": "503",
+    "id": "591",
+    "polyline": "keqvF|ifcMmDrBaE~IgJvUaJzU{I`VnIzFnVtQ|DjC~D`ClJcSlLaXjE}P",
+    "level": 3
+  },
+  {
+    "name": "Oakwood",
+    "key": "Oakwood",
+    "parent_id": "503",
+    "id": "550",
+    "polyline": "}hovFdlkcMqAoB{GuGoAH_@IkAs@uCkAuCsB{@o@a@k@[u@s@iCWkAg@wCGQa@_@_@MS?uBZm@Fc@Qm@Qm@YUIO?q@`@M@YA_H_E}J|RqBhEsGfMsDxHkJrQc@hAi@dAeB|DhCvE~B`FjCfCbBdCRd@`CfD|BvDNfB|BYjKeAxJaBvL_DlHoG|]}r@",
+    "level": 3
+  },
+  {
+    "name": "Oakwood Beach",
+    "key": "Oakwood_Beach",
+    "parent_id": "503",
+    "id": "592",
+    "polyline": "yaovFdlhcMab@_JiEtPeMnYwI|Q`H~Dd@?p@a@N?VHl@Zl@L`@Rn@ItB[R@^L^\\FPf@tCXnAr@hCZt@`@j@nEdDtCfAjAt@`@HnAIxGtGdGhJpIyF`\\_i@",
+    "level": 3
+  },
+  {
+    "name": "Ocean Breeze",
+    "key": "Ocean_Breeze",
+    "parent_id": "503",
+    "id": "551",
+    "polyline": "_auvFbcdcMj^yy@af@wk@cU`m@kJtUwJjUs@lAoFtCcBhA_@j@zBvCfCjChMnKjU`SRZ",
+    "level": 3
+  },
+  {
+    "name": "Richmondtown",
+    "key": "Richmondtown",
+    "parent_id": "503",
+    "id": "561",
+    "polyline": "mrpvFr_pcMkBeEOoJvGeMgB_FwAaDe@k@mAm@cFmAkAe@kBcCsBuBaDiAmCiBcEqDZ_APoAAc@_CZOkB{BsDaCiDSc@cBeCkCeCaCgFiCuEdB}DgAm@oAa@o@Kq@Gy@i@QGmBwBwBuCeAw@g@YwCQm@Ak@BsBl@eCn@wABu@YmCbFSt@Ip@QzIOdB{@|DU~A`@FbAZ~@b@x@f@j@nBb@tBhB~HrBrHx@bE\\hDjCvc@vCte@o@pJfCrFlBnNtCdDjLfJnAk@dy@e{@r@mA",
+    "level": 3
+  },
+  {
+    "name": "South Beach",
+    "key": "South_Beach",
+    "parent_id": "503",
+    "id": "568",
+    "polyline": "ccwvFnadcM\\k@jBkAjFwCr@mA|JwUjJwUzTql@at@uv@iWpYeFjDc@Nc@FwA~@mAfA{AdAgAbAyCzBzLbi@wBjBsAvCc@l@i@PkAMYREz@rCnCn@tAVbBFfBa@|CmA`Ey@rDi@dUFfDl@Bt@UlDyBrDkBFTnJaFb@_@|EvR",
+    "level": 3
+  },
+  {
+    "name": "Todt Hill",
+    "key": "Todt_Hill",
+    "parent_id": "503",
+    "id": "575",
+    "polyline": "ygwvFbakcMeBqb@@gQsIcQeAeBQ}FoI}PaJ{IyEeEgEjLuBbFsAyDiEJqBj@yCdBKvAkAe@qAa@mBQg@Ky@c@i@SUCk@CuARoCLaBrAwFtGc@l@Yl@cAVRrQLrHEtC[rEMnAwAzIYjBYfCK|E@lCHnBPjBf@`DxEbXbDa@tNs@bRg@dDObCGdD?\\DZT`AdBnD~GxAl@l@TrG`DtJdFbH~DzBjA",
+    "level": 3
+  },
+  {
+    "name": "Bulls Head",
+    "key": "Bulls_Head",
+    "parent_id": "505",
+    "id": "514",
+    "polyline": "icyvFlgvcMjDlFhInMdEcKhGmN|O{]nCgH|@gFTwCZcGT}BHWTKh@CfAVx@\\y@oAu@}@s@o@cAm@u@[w@WeBa@_BKe@AmG|@}OrAeFj@eCh@yBZcBCkL{C_Eu@cD?qEb@x@zOGtBcAfNkAjM~Cn@v@?~@YlDsCtA~CrA~DjA~Dt@rApBbC",
+    "level": 3
+  },
+  {
+    "name": "Castleton Corners",
+    "key": "Castleton_Corners",
+    "parent_id": "505",
+    "id": "516",
+    "polyline": "qlxvFrrmcMKmA|@cMr@_NGkA_@oAsAiCmAoCXc@TKXAcCcAuFiKUQ_@EiDAMuPDwEa@uG[qAaBx@eEViARcCJoK|@aCZeC`@_HlBcId@uGd@{AEaCUu@yTqG|BoOh@iEp@n@`Jd@zJyCnA_GtCuCp@iBZh@jFlBrPRGrJs@|Dv@lCHpCWtEeBzBiA~B_@rFB\\fQjAn[VnMpL@dLm@bEc@fLi@tOcApHk@tBI`CU~ASnBe@",
+    "level": 3
+  },
+  {
+    "name": "Graniteville",
+    "key": "Graniteville",
+    "parent_id": "505",
+    "id": "528",
+    "polyline": "{ezvFzqucMlBgS`AuMFeCy@sOm@iKyHuo@cJqu@[oDgIe@eIi@wTqAgj@{DmA`PLxOk@bLjKnAtHrInIxObKpLnHvDzEbB_KlSuCfGiCnGqGpPuB`HyA|GxI`FnZnTrd@d]",
+    "level": 3
+  },
+  {
+    "name": "Manor Heights",
+    "key": "Manor_Heights",
+    "parent_id": "505",
+    "id": "543",
+    "polyline": "gtuvFd`mcMyGiSuT{V_T}QeChv@uBgAgHaEkCuAuGgDkFkC[BUHWd@nAvCnA~B`@nADnAu@vN{@hLJlA|@jCfBjDrBvCtD~DoDvLy@fDMzBCtAx@~Dq@hKzIxFpHhFnF|DdAdAt@l@dEdC`@JbBNjJod@G{A@sABc@JYdEsHtDcIPKnBgEbAyAb@SVGVAbANr@Pz@H`@Cv@_@d@c@h@{@Vk@RgAPuB\\mB|@qB",
+    "level": 3
+  },
+  {
+    "name": "Meiers Corners",
+    "key": "Meiers_Corners",
+    "parent_id": "505",
+    "id": "545",
+    "polyline": "adxvF|focM{@mEPmEx@gDpDoLuDcEwB}CgBgDg@_B{A^iARiDZkBDmPpAqUjAyDb@iLp@sLI^tQAvCdEf_@he@wBzKYnIm@rPi@nErC",
+    "level": 3
+  },
+  {
+    "name": "New Springville",
+    "key": "New_Springville",
+    "parent_id": "505",
+    "id": "549",
+    "polyline": "{jsvFvrtcM}K_VwLyWuCeGqGyNoCsFoCaF}@{@_EaD{@}@sBoCyBkCiCkD{AyBuHwJeKcHeAmMe@wH_Di@eJpc@a[|l@cGr\\bAhUpG{@d@?|ALfB^t@Vv@\\`Al@r@n@t@|@tJdOfIpIb@`@dAp@z@R`KlBjBTvJp@rL|@vWfBtKTfITzHZpIc@Eu@",
+    "level": 3
+  },
+  {
+    "name": "Sunnyside (Staten Island)",
+    "key": "Sunnyside__Staten_Island_",
+    "parent_id": "505",
+    "id": "573",
+    "polyline": "w|{vFxwhcMzClNnKr]x@jV`CT|ADrHg@Os@QsBGgBCoCLaFVcCpBoMNqAXgEFwCU_NKgL[HSiWU}MaFzEiCnBkAgFQOuB]}BwAU[m@Og@Bw@BaAQkEf@oRzAcCpGkCfDoBpJ|FdJdGxJ",
+    "level": 3
+  },
+  {
+    "name": "Westerleigh",
+    "key": "Westerleigh",
+    "parent_id": "505",
+    "id": "582",
+    "polyline": "sa{vFnuncM@}Bw@{`@kAu[_@eQqFAaC^{BfAwEdBoCToCI_Eu@oJt@wCjA~Bdp@UdIoAtReCb^|[|BxNx@|N`ArH`@",
+    "level": 3
+  },
+  {
+    "name": "Willowbrook",
+    "key": "Willowbrook",
+    "parent_id": "505",
+    "id": "583",
+    "polyline": "aaxvFfkscMYcGdGs\\`[am@`AuEaBO_@IcEeCu@k@iAiAaKmHeD}BsIsFyAgAwBmAeKXoGZgF`@aGJaGTeb@lBdAhJXdD`Gjf@dFnb@tBxQ`AxHl@lKrEc@`D@~Dr@jLzCbBD~B_@|Be@~Fq@dOmA",
+    "level": 3
+  },
+  {
+    "name": "Arlington",
+    "key": "Arlington",
+    "parent_id": "501",
+    "id": "509",
+    "polyline": "ag~vFv}wcMfPa\\jEkFxCkChGqIpBcFp@mBn@oGf@wIn@oIqEsCoBy@uA]eYqEc@M}s@{@yq@kAiLng@B`d@zU`Gz\\fCjJvEbKtDfKlLtJvL",
+    "level": 3
+  },
+  {
+    "name": "Clifton",
+    "key": "Clifton",
+    "parent_id": "501",
+    "id": "519",
+    "polyline": "mo{vFdeecM~Eo@{LiR{LsQ~Ue\\}OiI_FkGiBiEqC_DqDeAyLcMmUpEj@tYt@~OjOjr@hOtBdFXfFp@pGpC|FrD",
+    "level": 3
+  },
+  {
+    "name": "Elm Park",
+    "key": "Elm_Park",
+    "parent_id": "501",
+    "id": "524",
+    "polyline": "}q~vF`zocMOnBaQyDN_@_ZsHsFyAoE}@aGh@kFRtB~g@bWfEte@bKd@}Ed@qDbJ|BlJpBJDhJhBx@Fr@Rj@gLMoOgA?i@iDc@i@q@_@cEqAcCk@{B[}@e@qByBkB}B",
+    "level": 3
+  },
+  {
+    "name": "Grymes Hill",
+    "key": "Grymes_Hill",
+    "parent_id": "501",
+    "id": "533",
+    "polyline": "gn|vFxfgcMnQwAjFi@`AP~AGj@NTX`CxAlBZVNjAfF`CiBfF_FMcJj@kKhB{I|C{IcCqD}KkGcHsEkFt@kC|AoG{DqGoCwEm@}F_@uNqBqKaAwHyC}Dg@}BkAwCsBgEpHfA~AFl@{IrPzClDhAzAlCpAjIzEfIdFtPvTtIxK~FnI",
+    "level": 3
+  },
+  {
+    "name": "Howland Hook",
+    "key": "Howland_Hook",
+    "parent_id": "501",
+    "id": "537",
+    "polyline": "g__wFfiycMnLkWyJ{LeKiLeKwDoJuEuWkByCY_VcGz@bm@jX~a@~c@zc@",
+    "level": 3
+  },
+  {
+    "name": "Mariners Harbor",
+    "key": "Mariners_Harbor",
+    "parent_id": "501",
+    "id": "544",
+    "polyline": "ev|vFhytcMtB_HtGuPjCuGpOm[aFeBiHuDcKoLoIyOuHuIkKmAy@Ww@EeMiCiIiBuHkBe@xDe@rEoe@aKwPsCxFzi@uIdm@{Jv`@|o@dAnWXtUZ^LnYnEnA^vB~@fElC",
+    "level": 3
+  },
+  {
+    "name": "New Brighton",
+    "key": "New_Brighton",
+    "parent_id": "501",
+    "id": "547",
+    "polyline": "itawFjgicMdJuEIuBj`@_FM{B`JgAa@cGrA[tC[lH}@jAyKx@gIFaIyBsAqCuA]i@Qi@Em@Fm@fBqHHk@D{@Ew@Qc@WY[W[_@Uc@Ec@RyDJgDKs@a@mB[g@[_@yHsEc@k@_@oCg@Xq@Pi@BYCeKgBgKaBcCIg@BcAP]JyAx@aB~@iJnIbAfCoEnCpFt^Pv]\\th@",
+    "level": 3
+  },
+  {
+    "name": "Park Hill",
+    "key": "Park_Hill",
+    "parent_id": "501",
+    "id": "553",
+    "polyline": "qjzvFzqecMxGoSf@kB|AgITcBRmB@y@RmEeL}HkK{F_EuBaQyI_Vb\\~KjPvMnSfHtE~KlGpCdE",
+    "level": 3
+  },
+  {
+    "name": "Port Richmond",
+    "key": "Port_Richmond",
+    "parent_id": "501",
+    "id": "556",
+    "polyline": "aa_wFjslcMgBr@cKjBcLzBqb@|De@rGvDn~@fFQbGk@dEz@`b@pKS^dQxDJqBvBaGdBxBtB|B|@b@|BZzBj@fEnAr@b@b@d@f@hDfA?lAcPdN~@tEuq@RiI}Bap@bCeAoAyKgAkKgEfDuFdCaHpAmFjByDP}@{DkFdJo@d@uDzB{CpB{CbB",
+    "level": 3
+  },
+  {
+    "name": "Rosebank",
+    "key": "Rosebank",
+    "parent_id": "501",
+    "id": "562",
+    "polyline": "m{yvFd{ccMPgPwEyAmFiFoGmHe_@g~@yL}Y_`@fu@|LvLjDfAvC`DnBlEzErGfe@zUzMnHnL`I",
+    "level": 3
+  },
+  {
+    "name": "Saint George",
+    "key": "Saint_George",
+    "parent_id": "501",
+    "id": "569",
+    "polyline": "ev_wFxidcMkBaFuCwFsCkGe@y@Ei@?aANs@Tg@fAcFCgHk@uRy@uRsCZqe@vKiD`LaMz`@uAbKXlLqApGm@zJpJhYpEoCeAiCjJoIzDyBZKbAQb@AfCFbK`BjKhBX@f@Ar@Sh@YzDsEXa@lEsM",
+    "level": 3
+  },
+  {
+    "name": "Shore Acres",
+    "key": "Shore_Acres",
+    "parent_id": "501",
+    "id": "565",
+    "polyline": "ymyvFvtacMl@wBzBsIPaIJaDPeDu@xAQt@a@~@a@t@s@t@[R_FwMwDkKgEwL_BgFu@wBa@iBw@mKaj@|WcKjI`m@byAnGlHlFhFtExAHaGRmDXuCZoCx@kFdB{G",
+    "level": 3
+  },
+  {
+    "name": "Silver Lake",
+    "key": "Silver_Lake",
+    "parent_id": "501",
+    "id": "566",
+    "polyline": "ip|vF|zicMbLyV_F_KcO}UnBoJjCgDyFcImPaT}IsLeEoCuMyHmCoAoAcB[l@kHdq@ZdDj@rA\\zAhAlOVdFZfET|DPzDBlAjA_@lAO|BUrOiCfAYdAK`Cg@rC_@nBIlBUf@F\\TrEtLpFtT",
+    "level": 3
+  },
+  {
+    "name": "Stapleton",
+    "key": "Stapleton",
+    "parent_id": "501",
+    "id": "571",
+    "polyline": "uo}vFtqccM{ByK}@aPa@iRqbA_NbA|^`@hDj@zDnFwArEm@tGdCnGvC?hG~P|O|@CdAl@H^@t@]~D@nAX`Ax@xBtCbCdHvCrKz@",
+    "level": 3
+  },
+  {
+    "name": "Tompkinsville",
+    "key": "Tompkinsville",
+    "parent_id": "501",
+    "id": "576",
+    "polyline": "gt~vFdlecM_BqA|IsPAu@[i@u@m@lEsHtCnBlCpAzD`@uCoCw@iBSkAEcA^cECs@O]y@i@aAAcJiI{EqEAkGeGuCaHeC{Ej@gFtAq@_Ea@gEy@}]{Hj@r@nRl@rR@nHgAbFSd@Ot@?`ADh@d@x@rCjGrCtFjB~Ez@tCoEtMW^}DvE\\lCb@j@xHrEZ^Zf@`@lBLt@MlDQrDBb@T`@\\`@p@n@Pb@Fx@Ez@Kj@gBpHGl@Dj@Pj@^h@pCtAvBrAtKWlHcq@^k@",
+    "level": 3
+  },
+  {
+    "name": "West Brighton",
+    "key": "West_Brighton",
+    "parent_id": "501",
+    "id": "580",
+    "polyline": "{}|vFz|hcMuEyL]Sg@GkBVoBFsC`@cCf@eAJgAVaOdCyEh@mA^CoAg@kJ]sEU}EkAuO[yAm@uA[gDsKRIdI_ApJcAjJsH`AqCZqAX`@dGaJfALxBuOlBsOrBFrBiJxEqGx@rRj_AhGpw@pb@}DlIcBxMeCfBu@zI{EpCkBtD{Br@g@jFeJhDeCxAoArAsBzAdD|FsDxDmA`C{H|FgIvCwJcC{BvB{BvEcH_EiG",
+    "level": 3
+  },
+  {
+    "name": "Annadale",
+    "key": "Annadale",
+    "parent_id": "502",
+    "id": "507",
+    "polyline": "iclvFxpwcMe@sBdAkIF_AxFuCzEsB|EaBtPkDrFeCbE}Bv@YdB}@tAoA`F{D~@}@bAw@tIuErI}B{Lmf@gPod@}EzD_GhDoNnJ_GrD_O~JaOlJiExCwKzGg@@m@Qu@FmAZe@|@a@hAeFdOoA`EqD`K}@|BeArBsBwAyBqAsEsBiBQiB?mJ}@iDnA{AZ{ANaQtBwLdAcBRgEl@r@tKgD~Ht@VtApAzHpHrMzMvI~GzNbKrC~BpBlCjI{SnCuGjD{IfSzOtF_Fb_@kN",
+    "level": 3
+  },
+  {
+    "name": "Arden Heights",
+    "key": "Arden_Heights",
+    "parent_id": "502",
+    "id": "508",
+    "polyline": "oqovFhsycMdJsJxGgOiKmHmJqHaMkM_LoKu@WiF^_MrA_Fd@}LdB_Fd@oFzVzEhTpBtLTzPnQtQjNjOfFsGlWyWrIaJ",
+    "level": 3
+  },
+  {
+    "name": "Charleston",
+    "key": "Charleston",
+    "parent_id": "502",
+    "id": "517",
+    "polyline": "{`jvFzkcdMYuOeAc`@]oKi@sSQwKcAwMc@{CoJcj@eDhA_Bb@}JrBqFx@gMf@mOiBRfI^dI^zKH~@v@zEaD@wEOwESwEg@qEo@mEeAoK{CmHeDaNjGiCnAuL|DwTbHwTbGje@hgAnSr\\zNbZb`@fHjj@aUx{@gG",
+    "level": 3
+  },
+  {
+    "name": "Eltingville",
+    "key": "Eltingville",
+    "parent_id": "502",
+    "id": "525",
+    "polyline": "wqkvFfepcM_NpK{Rpb@iBnBiBhBgMxLeEzDaQ|Pq@j@oDj@oCbBq@PyAx@cInAu@Ha@?yAQyAKwAW_EWaDp@_V|FyUtF|AbFNnATjCCj@YhCQt@Ev@iAtIcAvIfDSJzBVxApA~AtGnG`BdBf@~@`B~Dd@f@|DnC|EtBlEa@fLyAxBUxAUlEuA~Hn@|@JbAC`CRhF`CpEzCp@sAp@{AzA_EnIuVjAuDvAkDzBc@t@Pv@IvMiIr]kUbFmDnFeDjMwItF}C`FeE",
+    "level": 3
+  },
+  {
+    "name": "Great Kills",
+    "key": "Great_Kills",
+    "parent_id": "502",
+    "id": "531",
+    "polyline": "gqmvFhjncMcQrJwNnNwE{FiT~\\aAdAy@XmC`E@LsB^eI~@gJHyx@vz@dBtEpXr_@zFFdBrHvAjE|Bm@nQeErQkEzCw@zCo@`EXtATtD\\^?|AQzGeAzA{@r@SjC_BpDk@jDcDlFqFxW_WnCmCnCuC|Rsb@~MqK",
+    "level": 3
+  },
+  {
+    "name": "Greenridge",
+    "key": "Greenridge",
+    "parent_id": "502",
+    "id": "532",
+    "polyline": "arpvFzhwcMwEZaLlAqEb@}NpB{Ed@eAoHxN_g@tDon@qB{VzDwL~FDbBrHvBzGh@xAVxAR`BJ~AOtB]nBIhAgAnIaAlIfDUH~BXvAvAbBpJpJd@z@bBbEd@f@~DnCxErB}Iv@{C`@yB\\r@tK",
+    "level": 3
+  },
+  {
+    "name": "Huguenot",
+    "key": "Huguenot",
+    "parent_id": "502",
+    "id": "538",
+    "polyline": "ydivFnnucMsI|BqIrEiA|@cA`AiFzDgAfAyAt@_AZiFtCsErB{PjDsDtAcFnBsGbDG`AeAlI^`Bl@zBc_@jNwF~EcS{OmD~ImClGkI`TuBqCcCsBiBqA_HfOcWbXaWjWgFtGdH|IdEdJhCvJfDwEjDuB|^_NjIoCxBm@bPsGzGcDbC{@vEyAnSoHvEuB`ZkLtI{Dth@w\\|KcHvKiHdYeQ",
+    "level": 3
+  },
+  {
+    "name": "Pleasant Plains",
+    "key": "Pleasant_Plains",
+    "parent_id": "502",
+    "id": "554",
+    "polyline": "{ojvFhb_dMnAbGlClQdAbNd@vUhFVHwCNc@TyMPm@nKk@vAc@pH_F`MuIzTPxZ{IxFkBdEO|DDzDEnCGVKz@{@`H}H@GCBDIbLkGi[om@oa@ef@gEvCwKnEcBvAgZvLaCfAqAb@yD|@{BXo@EwEo@iCpAg@j@yBb@e@gAy@}@cMjD{AbAm@JiJb@pCfOrGp^",
+    "level": 3
+  },
+  {
+    "name": "Princes Bay",
+    "key": "Princes_Bay",
+    "parent_id": "502",
+    "id": "557",
+    "polyline": "qufvFrazcMwt@ubAuAyM_VzNoS|MkIdFsf@h[uIxDiHrCtAbEfAlEhLhn@|Ljq@bJa@t@M|AaAbMkDv@z@f@hAvBe@f@i@jCqAvEn@n@DtBY|D}@pAc@`CgAfZyLdBwAvKqEfEwC",
+    "level": 3
+  },
+  {
+    "name": "Richmond Valley",
+    "key": "Richmond_Valley",
+    "parent_id": "502",
+    "id": "560",
+    "polyline": "mlevFvu~cMaLjGGNc@b@sFlGaAbAYLoCFqGDcBEeELiGtBiZrI{TSoM`JcHtEwA`@oKl@Sl@SxMOb@IvCiFWNnF@tAx@dVdBbw@tSuGdAeUd@gRd@oHvG}@bJyAt@[ZSl@m@j@y@hBcD`@QhA]|HqAbJmBnJwB~KoCpd@sK|Cu@jEK",
+    "level": 3
+  },
+  {
+    "name": "Rossville",
+    "key": "Rossville",
+    "parent_id": "502",
+    "id": "563",
+    "polyline": "amkvFpw{cMaVrItD`SuPhEoVbE^xMGpNgHdBwC_g@sBuNkCeN_FfBqEoHg@mGcBs@eAwGoDbAsDlAeJ`DcWhJiDtBgDnE{@vHh@vMjBbNyGjGvFj`@}Jrz@rSqFlQqFlQ}FpHqDxHkDxEvBjBt@lBf@dF|AdFlAnEp@hFh@|CNhGP`DAw@aFGu@g@sNY_GSwHlOhB`Mg@pFy@fIaB`Dw@|CgA",
+    "level": 3
+  },
+  {
+    "name": "Tottenville",
+    "key": "Tottenville",
+    "parent_id": "502",
+    "id": "577",
+    "polyline": "srdvFjoedMtQ_^gKs^kB}\\aMkPqGi^cAqMkEHcDx@oEbAe^nIcLpCqDv@eDv@gKxBeHhAiA\\a@POT{ApCg@r@m@l@]Tu@ZaJxAyG|@e@lHe@lReA`UdKrIhI~LbHrPhDrNhSlNjLPjErI~N~C`c@_H",
+    "level": 3
+  },
+  {
+    "name": "Woodrow",
+    "key": "Woodrow",
+    "parent_id": "502",
+    "id": "584",
+    "polyline": "}qkvF|f{cMqGk]iAqEsAcEgObGqGnCwSrHeD`A}CfAmG|CmPzGfAzG`Br@f@jGpEpH~EgBlCdNrBtNvC~f@fHeBFsN_@yMxVgEhPcEsDcSzUqI",
+    "level": 3
+  },
+  {
+    "name": "Bloomfield",
+    "key": "Bloomfield",
+    "parent_id": "504",
+    "id": "512",
+    "polyline": "u{yvFf`xcMvBgQkDqCaHeEgFwEgg@e_@kWaRyIaFg@hHk@|Jq@nGaDhIoGvIsCjCiEfFmBpDaI`PyH`PcRla@qTfg@`^n_@th@vGjb@uIhRk@hAeSzFiKbLpBtO`MjPCu@yZ[}IiBwO",
+    "level": 3
+  },
+  {
+    "name": "Chelsea (Staten Island)",
+    "key": "Chelsea__Staten_Island_",
+    "parent_id": "504",
+    "id": "518",
+    "polyline": "}sxvFtvwcMFmXoG}JeF{HyF}GgAuAq@mAy@qCeBmFuA_DmDpC_AXw@@cDq@}F|o@rE~DfHlEbDpCmBnOkFdj@fBzOl@dRb@dRz{@_K",
+    "level": 3
+  },
+  {
+    "name": "Travis",
+    "key": "Travis",
+    "parent_id": "504",
+    "id": "578",
+    "polyline": "qstvF|j|cMiBsJf@gTf@eYnNo\\gBuOkFuGrAq`@uCcF{KgB_SdPgTx@eOmCgSgKiNmPgScG}BrFGfX`Fj`@tKd|@tg@|r@h`AzK",
+    "level": 3
+  }
+]
