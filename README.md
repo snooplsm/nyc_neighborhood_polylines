@@ -1,4 +1,4 @@
-# nyc_neighborhood_polylines
+# NYC Neighborhood Polylines
 A collection of nyc neighborhods and their polylines that can be converted into coordinates of latitude and longitude
 
 ## Schema
@@ -29,4 +29,23 @@ A collection of nyc neighborhods and their polylines that can be converted into 
   "polyline": "o_vwFvkvbMnm@hGbAyXf^{iA{|@il@gr@~xB",
   "level": 3
 }
+```
+
+# NYC Zip Code Polylines
+A collection of nyc zipcodes and their polylines that can be converted into coordinates of latitude and longitude
+
+## Schema
+```
+{
+    "zip": "10309",
+    "polylines": [
+      "kkpvFlc|cMzLrq@hJiCxbAg~@bp@sTze@}HvZdCnh@_ZdOf@??~Pzb@r@fBfM|`Adh@`w@r@dANdD~Bnh@NdD??qj@dM_EyFu^tLmWnSb@r^mKrV??kAiBMAk_AeFyjA~d@qRu^et@{tABae@Dac@?[e@g@cLqL??iHmn@x@qFbE_E"
+    ]
+  },
+  {
+    "zip": "10453",
+    "polylines": [
+      "{~jxFbp`bM~p@hc@vQ`VwBbGnFhE~CoA??oAfiB??{EsDoYiU_OyIqFkCmKoF??bGRbBkHuIwEaLoM{Je[z@_NzOwt@"
+    ]
+  }
 ```
